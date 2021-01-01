@@ -1,0 +1,5 @@
+# Art. 31c Compétences professionnelles particulières
+1 Lorsqu'une mesure doit être confiée à un-e avocat-e en raison de ses compétences professionnelles particulières, la rémunération est fixée conformément au tarif de l'assistance judiciaire.
+2 Lorsqu'une mesure doit être confiée à un-e autre professionnel-le, tels qu'un-e notaire ou un-e gérant-e d'immeubles, en raison de ses compétences professionnelles particulières, la rémunération est fixée en fonction du tarif horaire le plus bas retenu par l'association professionnelle concernée ou par les usages de la branche.
+3 Si la situation financière de la personne concernée le permet, la curatrice, le curateur ou la tutrice, le tuteur mandaté en raison de ses compétences professionnelles particulières est rémunéré selon le tarif usuel de sa branche.
+4 La décision instituant la curatelle ou la tutelle précise les tâches pour lesquelles la curatrice, le curateur ou la tutrice, le tuteur est nommé-e en raison de ses compétences professionnelles particulières.
