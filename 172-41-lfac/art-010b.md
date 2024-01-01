@@ -1,0 +1,3 @@
+# Art. 10b
+1 Durant une période transitoire s’étendant entre 2023 et 2024, les communes dont le produit de la taxation du revenu des personnes physiques 2023 et 2024 est inférieur à celui de 2022 du fait de la correction de la progression à froid effectuée au 1er janvier 2023 et d’une compensation insuffisante du fait de l’évolution du produit de l’impôt sur les personnes morales pour les mêmes périodes pourront bénéficier d’une aide de fonctionnement extraordinaire.
+2 Seules peuvent bénéficier de cette aide de fonctionnement extraordinaire les communes dont le coefficient d'impôt atteint au moins le coefficient d'impôt moyen pondéré de l'ensemble des communes.
