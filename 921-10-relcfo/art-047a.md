@@ -1,0 +1,6 @@
+# Art. 47a
+1 Les règlements des concours d’architecture et les appels d’offres relatifs aux marchés de construction de bâtiments ou installations de l’Etat doivent comporter systématiquement la mention suivante :
+«Dans le but de renforcer la gestion durable des ressources, le maître de l’ouvrage a l’intention d’encourager l’utilisation du bois».
+2 L’Etat exige dans le cahier des charges de ses appels d’offres que le bois utilisé provienne à 100% de sources légales et de modes d’exploitation proches de la nature et suivant les principes du développement durable. Ces exigences peuvent toutefois être assouplies dans la mesure utile lorsque l’état du marché ne permet pas de s’y conformer.
+3 Dans leurs offres, les soumissionnaires signent une déclaration d’intention d’utiliser ou d’acheter du bois provenant à 100% de sources légales, de modes d’exploitation proches de la nature et suivant les principes du développement durable et de tenir compte du but de réduction des émissions de gaz à effet de serre. Ils décrivent la manière dont ils peuvent prouver ou prouveront le respect de ces engagements, notamment au moyen de labels tels que le «certificat d’origine bois suisse» (COBS), le «Forest Stewardship Council» (FSC), «Programme for the Endorsement of Forest Certification» (PEFC) ou équivalents.
+c) communication
