@@ -1,0 +1,4 @@
+# Art. 95j Vacance dans les deux systèmes
+1 Dans le système de la représentation proportionnelle, si une vacance entraîne la perte du siège garanti à une ancienne commune, est proclamé élu le premier des suppléants de la même liste qui réside sur le territoire de cette commune. A défaut, ou si ce dernier refuse le siège, le premier des suppléants de la même liste prend sa place.
+2 Dans le système majoritaire à un tour, si une vacance entraîne la perte du siège garanti à une ancienne commune, est proclamé élu le premier des suppléants qui réside sur le territoire de cette commune. A défaut, ou si ce dernier refuse le siège, le premier des suppléants prend sa place.
+3 Dans les deux systèmes, s'il n'y a plus de suppléant pouvant prétendre au siège garanti, il est procédé à une élection complémentaire, conformément aux règles générales de l'article 95 mais également aux règles particulières des articles 95g à 95i.
