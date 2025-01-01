@@ -1,0 +1,4 @@
+# Art. 25a Mémoire de médiation
+1 Si les parties ne conviennent pas d’une répartition à parts égales des honoraires et frais de médiation, et que seule l’une d’elles bénéficie de l’assistance judiciaire, la part prise en charge par l’État ne peut excéder sa quote-part calculée sur une base égalitaire. À cet effet, la médiatrice ou le médiateur précise sur son décompte la répartition convenue par les parties.
+2 Seule la part afférente à la partie ou aux parties bénéficiaires de l’assistance judiciaire fait l’objet du mémoire remis à l’autorité compétente. Cette dernière précise dans sa décision le montant que chaque partie devra rembourser, en tenant compte de l’article 15, alinéa 1 LMCP, dans les affaires concernant le droit des enfants.
+3 La part de la partie non bénéficiaire de l’assistance judiciaire lui est donc facturée directement par la médiatrice ou le médiateur.
