@@ -1,0 +1,2 @@
+# Art. 52b
+Pour toute nouvelle construction ou rénovation importante, le projet devra comprendre, au stade de la demande de permis de construire, la mise en œuvre de mesures propres à réduire de manière significative les émissions d’ammoniac, telles qu’elles ressortent du module de l’aide à l’exécution pour la protection de l’environnement dans l’agriculture «constructions rurales et protection de l’environnement», édité par l’Office fédéral de l’environnement (OFEV) et l’Office fédéral de l’agriculture (OFAG).
