@@ -1,0 +1,2 @@
+# Art. 18a Promotion et soutien aux professions de la santé
+Conformément à l'article 74 de la loi de santé (LS), du 6 février 1995, le département soutient financièrement, sous forme d'indemnités au sens de l'article 3, alinéa 1, lettre a de la loi sur les subventions (LSub), du 1er février 1999, l'organisation neuchâteloise du monde du travail santé-social (OrTra santé-social), en vue de promouvoir et de soutenir les professions de la santé.

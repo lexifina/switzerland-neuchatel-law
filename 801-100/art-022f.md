@@ -1,0 +1,3 @@
+# Art. 22f Chiropraticien-ne
+1 L'autorisation de pratiquer dans le canton en qualité de chiropraticien-ne confère à son-sa titulaire le droit d'examiner, diagnostiquer, prescrire des agents thérapeutiques et ordonner des traitements particuliers ainsi qu'évaluer et traiter les troubles fonctionnels et les états douloureux dus à la déstabilisation, au blocage ou à d'autres lésions des structures biomécaniques du corps humain.
+2 L'usage des moyens d'examens nécessaires à l'établissement d'un diagnostic, notamment d'examens radiologiques ainsi que la prescription d'agents thérapeutiques, sont autorisés dans la mesure où ils s'appuient sur une formation spécifique et sur la pratique de la profession.
