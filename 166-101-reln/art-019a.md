@@ -1,0 +1,4 @@
+# Art. 19a Retrait, non-présentation, abandon
+1 Le candidat qui, sans motif légitime, se retire de l’examen est réputé avoir échoué. Il en va de même, s’il se retire ou ne se présente pas à une épreuve écrite ou orale voire l’abandonne en cours.
+2 En cas d’échec au sens de l'alinéa 1, à l’une des épreuves écrites, l’ensemble de l’examen écrit est réputé échoué. Les éventuelles épreuves écrites restantes sont annulées mais l’épreuve orale est maintenue.
+3 Néanmoins, si la commission décide que le motif est légitime, elle peut, si la nature du motif le permet dans un délai raisonnable, fixer une nouvelle date pour l’épreuve manquée tout en maintenant les autres épreuves écrites et orale ou, sinon, annuler l’intégralité de la session, celle-ci n’étant pas comptabilisée comme un échec pour le candidat.
