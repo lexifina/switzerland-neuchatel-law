@@ -1,0 +1,5 @@
+# Art. 2a Bases du décompte
+1 Le produit de l'impôt des personnes physiques harmonisé et de l'impôt à la source harmonisé se détermine selon l'article 6 de la loi.
+2 Le coefficient de l'impôt communal pris en compte dans le calcul de l'indice des ressources fiscales harmonisées est celui de la période considérée. Il s'applique aussi bien au produit de l'impôt des personnes physiques et à celui de l'impôt à la source perçus au cours de l'année considérée relatifs à la période considérée qu'à ceux perçus au cours de l'année considérée relatifs aux périodes antérieures.
+3 A titre exceptionnel, lorsqu'une modification importante du coefficient fiscal communal l'impose, le Conseil d'Etat peut déroger à la règle visée à l'alinéa précédent et décider que les ressources fiscales perçues au titre des périodes fiscales précédant la modification seront harmonisées sur la base du coefficient d'impôt en vigueur avant la modification.
+4 L'indice de ressources fiscales harmonisées est déterminé exclusivement sur la base des relevés fiscaux provenant des services de l'Etat (tableaux de bord communaux).
