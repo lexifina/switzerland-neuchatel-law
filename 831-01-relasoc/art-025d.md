@@ -1,0 +1,7 @@
+# Art. 25d Comptes
+1 La facturation aux communes de leurs parts à la facture sociale est établie par année civile, appelée année de référence.
+2 Les factures transmises aux communes portent sur le solde net des charges et revenus de chacun des domaines de la facture sociale.
+3 Quatre factures sont transmises en cours d’année en mars, juin, septembre et décembre. Les montants de ces factures sont déterminés sur la base des dépenses effectives, du budget voté par le Grand Conseil et des prévisions des comptes de l’année de référence.
+4 Un bouclement provisoire de la facture sociale est établi en janvier de l’année qui suit l’année de référence sur la base des dépenses effectives au 31 décembre et des actifs et passifs de régularisation. L’écart entre le bouclement provisoire et les montants déjà payés par les communes est régularisé au travers d’une cinquième facture adressée aux communes.
+5 Un bouclement définitif est établi au 31 mai de l’année qui suit l’année de référence sur la base des dépenses effectives de l’année de référence à cette date et d’une évaluation des dossiers encore en cours de traitement. L‘écart entre le bouclement définitif et les montants déjà payés par les communes est régularisé soit au travers d’une facturation soit par le remboursement du trop-perçu.
+6 La part de l’Etat aux charges d’aide matérielle avancées par les communes est versée parallèlement à l’envoi de chaque facture.
