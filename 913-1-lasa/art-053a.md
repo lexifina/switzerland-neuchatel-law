@@ -1,0 +1,7 @@
+# Art. 53a
+1 Les dispositions qui précèdent sont applicables aux immeubles faisant partie du cadastre viticole cantonal, sous réserve des dérogations suivantes:
+a) la création d'un syndicat constitutif d'une corporation de droit public est subordonnée à une décision prise par le 20% des propriétaires possédant plus de la moitié de la surface des terrains entrant en considération, les propriétaires ne prenant pas part à la décision étant réputés y adhérer;
+b) les travaux sont pris en charge par l'Etat à un taux fixé par le Conseil d'Etat, la subvention cantonale ne pouvant, compte tenu des subventions fédérale et communale, avoir pour effet de faire supporter aux propriétaires intéressés plus du 10% des frais pris en considération;
+c) les communes sur le territoire desquelles des améliorations foncières sont entreprises sont tenues d'allouer une subvention correspondant au moins au 10% des frais arrêtés par le Conseil d'Etat.
+2 A l'exclusion des installations de mises sur fils de fer, les installations fixes destinées à faciliter l'exploitation du vignoble ou à lutter contre les parasites sont subventionnées par l'Etat et par les communes selon les modalités arrêtées par le Conseil d'Etat.
+3 Les dispositions du présent article sont applicables aux immeubles ne faisant pas partie du cadastre viticole cantonal, si et dans la mesure où leur incorporation dans une entreprise d'améliorations foncières est nécessaire à la réalisation de cette entreprise et si cette incorporation a un caractère accessoire.
