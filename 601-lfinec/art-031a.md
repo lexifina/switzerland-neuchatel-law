@@ -1,0 +1,3 @@
+# Art. 31a Augmentation du coefficient fiscal en raison d'un budget non conforme
+1 Si les mesures visées à l’article 30, alinéa 5 ne suffisent pas et que les conditions permettant une dérogation au sens de l'article 31 ne sont pas réunies, le Conseil d’Etat propose un relèvement pour une année du coefficient de l'impôt cantonal des personnes physiques dans la mesure nécessaire pour respecter les critères fixés à l’article 30, alinéas 1, 2, 4bis et 4ter .
+2 Si l’augmentation du coefficient d’impôt ne recueille pas une majorité suffisante, le projet de budget est renvoyé avant le vote final à la commission des finances, avec mandat de le rendre conforme à la législation.
