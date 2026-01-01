@@ -1,0 +1,4 @@
+# Art. 10a
+1 Le service pénitentiaire et ses entités peuvent communiquer à un autre service, sur requête, le lieu de séjour, la date d'entrée en détention et de libération de la personne soumise à une sanction pénale si ces renseignements sont nécessaires à l’accomplissement de ses tâches.
+2 Le service pénitentiaire et ses entités peuvent, d’office ou sur requête écrite, échanger mutuellement, ainsi qu’avec les établissements de détention d’autres cantons et avec d’autres personnes ou organes intervenant dans le cadre de l’exécution des peines et mesures, y compris avec les établissements et le personnel privés, toutes les données personnelles et sensibles dans le but d’assurer la sécurité publique ainsi que le placement et le suivi de personnes condamnées. Ils sont habilités à transmettre le dossier ou des éléments de celui-ci.
+3. Fichier

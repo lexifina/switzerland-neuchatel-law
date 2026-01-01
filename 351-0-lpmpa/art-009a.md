@@ -1,0 +1,5 @@
+# Art. 9a
+1 Dès lors qu’une personne détenue s’est vue ordonner un traitement institutionnel (art. 59 CP), un traitement ambulatoire (art. 63 CP) ou un internement (art. 64 CP) ou que son caractère dangereux est admis ou encore lorsqu’une personne est sous assistance de probation (art. 93 CP) ou sous règles de conduite à caractère médical (art. 94 CP), les autorités cantonales et communales, les médecins, les psychologues et tous autres intervenants thérapeutiques en charge de cette personne sont libérés du secret de fonction et du secret médical dès lors qu’il s’agit d’informer l'autorité compétente sur des faits importants pouvant avoir une influence sur les mesures en cours ou sur les allègements dans l’exécution ou, d’une manière générale, sur l’appréciation de la dangerosité de la personne considérée.
+2 En tout état, les personnes tenues au secret professionnel peuvent en être déliées, soit à leur demande par l’autorité compétente, soit par la personne détenue elle-même.
+Protection des données
+1. collecte
