@@ -1,0 +1,4 @@
+# Art. 107b
+1 Le Conseil d’Etat approuve le plan, conformément à l’article 26 de la loi fédérale sur l’aménagement du territoire, du 22 juin 1979.
+2 Il se prononce parallèlement sur les recours interjetés à l’encontre des décisions du Conseil communal et de celles, spéciales, des autorités.
+i) Caractère obligatoire et sanction

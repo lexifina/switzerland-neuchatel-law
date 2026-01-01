@@ -1,0 +1,5 @@
+# Art. 12a
+1 Les constructions et installations autorisées légalement et qui ne sont plus conformes à l'affectation de la zone et aux prescriptions de construction prévues par le plan communal d’affectation des zones ou les dispositions d'exécution de la présente loi peuvent être maintenues, entretenues et rénovées.
+2 Un changement d'affectation ou un agrandissement des constructions et installations susmentionnées peut être autorisé à condition que la non-conformité au droit en vigueur ne soit pas fondamentalement aggravée et qu'aucun intérêt prépondérant privé ou public ne s'y oppose.
+3 Lorsqu'une construction ou installation est frappée par un alignement, des travaux au sens de l'alinéa 2 ne peuvent être autorisés que s'ils ne contreviennent pas à l'objectif de l'alignement; le cas échéant, une convention de précarité peut être exigée par analogie avec l'article 77.
+4 Les dispositions de la présente loi relatives aux plans d'alignement ainsi que les obligations d'adapter ou d'assainir découlant de la législation cantonale ou d'un plan communal d’affectation des zones au sens de l'article 59, alinéa 2, lettre n, sont réservées.

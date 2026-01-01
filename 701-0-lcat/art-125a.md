@@ -1,0 +1,3 @@
+# Art. 125a Coordination des voies de recours
+1 Lors de l’adoption ou de modifications simultanées d'un plan communal d’affectation des zones et d'un plan d'affectation cantonal, les décisions des communes et des autorités chargées de délivrer les décisions spéciales en matière de plans communaux d’affectation des zones sont rendues et notifiées aux parties simultanément avec les décisions du Conseil d'État et des autorités chargées de délivrer les décisions spéciales en matière de plans d’affectation cantonaux.
+2 Toutes les décisions précitées sont susceptibles d’un recours commun au Tribunal cantonal, conformément à la LPA.
