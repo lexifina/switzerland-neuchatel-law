@@ -1,0 +1,5 @@
+# Art. 11a
+1 Une dotation annuelle de 6,5 millions de francs est accordée conjointement aux deux Villes de La Chaux-de-Fonds et du Locle à compter de l’exercice 2024.
+2 Les deux Villes de La Chaux-de-Fonds et du Locle établissent par convention la répartition entre elles de ladite dotation et en informent le Conseil d’Etat.
+3 Une dotation annuelle de 6,5 millions de francs est accordée à la Ville de Neuchâtel à compter de l’exercice 2024, charge à elle de répartir 25% de cette somme, soit 1,625 million de francs par an, en faveur des syndicats intercommunaux actifs en matière de culture et de sports. Elle en informera le Conseil d’Etat.
+4 La dotation visée aux alinéas premier et 3 sera adaptée à l’évolution de l’indice des prix à la consommation l’année qui suit celle au cours de laquelle l’indice de référence du mois de mai aura augmenté de plus de 5% par rapport à son niveau déterminant lors de l’entrée en vigueur de la mesure ou de sa dernière adaptation. Elle sera financée par le budget du compte de résultats de l’Etat.
