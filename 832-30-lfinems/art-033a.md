@@ -1,0 +1,4 @@
+# Art. 33a
+1 Le Conseil d'Etat est chargé de prévoir un régime transitoire afin de prévenir les conséquences de l'entrée en vigueur de la présente loi, pour les résidents présents avant le 31 mars 2013 dans les EMS non signataires d'un contrat de prestations, et nécessitant une aide individuelle. Au titre du regroupement familial au sein d'un même EMS, les conjoints des résidents concernés bénéficient d'une aide individuelle.
+2 Il fixe annuellement les tarifs applicables aux EMS non reconnus d'utilité publique applicables aux prix de pension des résidents concernés par le régime transitoire.
+3 Pour les résidents visés à l'article 33a, alinéa 1, les EMS respectent les tarifs fixés par le Conseil d'Etat et renoncent à toute autre rémunération pour les prestations résultant de la présente loi, par analogie avec l'article 13, alinéa 1, lettre b (protection tarifaire).
