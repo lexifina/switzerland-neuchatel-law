@@ -1,0 +1,4 @@
+# Art. 3b Inscription et admission tardive
+1 L’élève qui ne remplissait pas les conditions d’inscription au semestre (art. 2, al. 1) mais remplirait celles fixées en fin de 11e année (art. 2, al. 2), sous la seule réserve qu’il ou elle n’a suivi 3 disciplines en niveau 2 qu’au second semestre, peut déposer une demande d’admission tardive; l’admission tardive ne peut être demandée qu’une fois.
+2 Si la capacité d’accueil le permet, l’admission est accordée à titre provisoire. Si le nombre de demandes est supérieur à la capacité d’accueil, la sélection se fait selon le critère suivant: nombre de points obtenus en fin de 11e année dans les disciplines à niveaux et l’option académique.
+3 L’admission définitive est décidée sous réserve de situation exceptionnelle, après un semestre par le directeur ou la directrice. Les résultats, notamment, doivent satisfaire aux conditions de promotion. En cas de décision négative, l'élève doit quitter l'école.
