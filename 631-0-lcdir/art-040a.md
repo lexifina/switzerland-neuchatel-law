@@ -1,0 +1,105 @@
+# Art. 40a Périodes fiscales 2013-2016
+1L'impôt sur le revenu est déterminé d'après le système progressif par catégorie, selon le barème suivant:
+Catégories
+Taux de chaque catégorie
+Impôt dû pour le revenu maximal de la catégorie
+Taux réel du maximum de chaque catégorie
+Fr.
+Fr.
+%
+Fr.
+%
+0.–
+à
+5.000.–
+0,000
+0.–
+0,000
+5.001.–
+à
+10.000.–
+2,000
+100.–
+1,000
+10.001.–
+à
+15.000.–
+4,000
+300.–
+2,000
+15.001.–
+à
+20.000.–
+8,000
+700.–
+3,500
+20.001.–
+à
+30.000.–
+12,000
+1.900.–
+6,333
+30.001.–
+à
+40.000.–
+12,500
+3.150.–
+7,875
+40.001.–
+à
+50.000.–
+13,000
+4.450.–
+8,900
+50.001.–
+à
+60.000.–
+13,500
+5.800.–
+9,667
+60.001.–
+à
+70.000.–
+14,000
+7.200.–
+10,286
+70.001.–
+à
+80.000.–
+14,500
+8.650.–
+10,813
+80.001.–
+à
+90.000.–
+15,000
+10.150.–
+11,278
+90.001.–
+à
+100.000.–
+15,500
+11.700.–
+11,700
+100.001.–
+à
+110.000.–
+16,000
+13.300.–
+12,091
+110.001.–
+à
+155.000.–
+16,500
+20.725.–
+13,371
+155.001.–
+à
+195.000.–
+17,000
+27.525.–
+14,115
+2Le revenu supérieur à 195.000 francs est imposé à 14,5%.
+3 Pour les époux vivant en ménage commun, ainsi que pour les contribuables veufs, séparés, divorcés et célibataires qui vivent en ménage commun avec des enfants, dont ils assument pour l'essentiel l'entretien, le revenu est frappé du taux correspondant au 55% de son montant.
+4 Le revenu net imposable est arrondi à la centaine de francs inférieure.
+Catégories et taux

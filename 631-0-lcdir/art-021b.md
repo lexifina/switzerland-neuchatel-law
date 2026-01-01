@@ -1,0 +1,4 @@
+# Art. 21b
+1 Les dividendes, les parts de bénéfice, les excédents de liquidation et les avantages appréciables en argent provenant d’actions, de parts à des sociétés à responsabilité limitée, de parts à des sociétés coopératives et de bons de participation ainsi que les bénéfices provenant de l’aliénation de tels droits de participation sont imposables, après déduction des charges imputables, à hauteur de 60% lorsque ces droits de participation équivalent à 10% au moins du capital-actions ou du capital social d’une société de capitaux ou d’une société coopérative.
+2 L’imposition partielle n’est accordée sur les bénéfices d’aliénation que si les droits de participation sont restés propriété du contribuable ou de l’entreprise de personnes pendant un an au moins.
+d) revenus provenant de brevets et de droits comparables en cas d’activité lucrative indépendante
