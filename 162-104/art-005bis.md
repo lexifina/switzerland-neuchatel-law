@@ -1,0 +1,3 @@
+# Art. 5bis
+1 En cas d’absence de candidature pour une fonction énumérée à l’article 4, alinéa 1, lettre b, la Cour plénière désigne à cette fonction un membre du Tribunal cantonal en tenant compte de l’ancienneté au sein du Tribunal cantonal et d’une alternance à cette fonction des juges attribués à la Cour de droit public et des juges attribués aux autres cours du Tribunal cantonal.
+2 Le membre du Tribunal cantonal qui a déjà présidé la commission administrative des autorités judiciaires, le Conseil de la magistrature ou qui serait touché par une mise à la retraite au sens de l’article 7a LMSA avant la fin de la durée du mandat, peut refuser sa désignation.
