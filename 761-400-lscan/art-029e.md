@@ -1,0 +1,3 @@
+# Art. 29e Droit de consulter et modifier les données du système d’information pour la gestion des autorisations de parcage
+1 Les collectivités publiques liées contractuellement au service pour utiliser le module autorisations de parcage de son système d’information peuvent accéder aux données citées à l’article 29b, alinéa 2, lettres a, b, c, d, e et g, ainsi que les données de OSIAC relatives au véhicule et à la plaque de contrôle (art. 4, let. a et c, OSIAC), et concernant le détenteur d’un véhicule (art. 4, let. b, OSIAC), ceci uniquement dans le cadre de leur mission de gestion des autorisations de parcage.
+2 La consultation et la modification de données se font par l’intermédiaire du système d’information du service.
