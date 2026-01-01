@@ -1,0 +1,3 @@
+# Art. 49a Equilibre financier et respect du plan de financement
+1 La Caisse fait vérifier périodiquement par l'expert en matière de prévoyance professionnelle au sens de l'article 72d LPP que son équilibre financier est garanti à long terme dans le système de la capitalisation partielle et que le plan de financement visé à l'article 72a, alinéa 1 LPP et à l'article 49 de la présente loi est respecté.
+2 Le Conseil d'administration établit tous les cinq ans, la première fois en 2018, un rapport transmis au Grand Conseil par le Conseil d'Etat sur l'évolution de la situation financière de la Caisse et la réalisation des objectifs fixés à l'article 49 de la présente loi.
