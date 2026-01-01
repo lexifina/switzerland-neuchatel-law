@@ -1,0 +1,3 @@
+# Art. 38a Disposition transitoire à la modification du 7 décembre 2021
+1Les décisions et contrats de prestations prévoyant la couverture de déficit restent valables jusqu'à leur échéance. Leur éventuel renouvellement doit être conçu de manière à ce qu'aucune subvention garantissant un déficit de manière non conforme à la présente loi ne soit versée dès la sixième année après l'entrée en vigueur de la présente loi.
+2Les dispositions légales cantonales prévoyant la couverture de déficit doivent être adaptées à la présente loi. Dans un délai de 2 ans, le Conseil d’Etat dresse un inventaire des dispositions prévoyant une couverture de déficit. Dans un délai maximum de 5 ans, il soumet au Grand Conseil des propositions visant à leur maintien ou à leur abrogation.
