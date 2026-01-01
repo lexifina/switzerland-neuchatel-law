@@ -1,0 +1,5 @@
+# Art. 17bis
+1 Dans la mesure de l’article premier, l’office met des moyens auxiliaires, sous forme de dispositifs numériques permettant une progression dans les apprentissages, à disposition des élèves présentant des troubles spécifiques de l’apprentissage qui ne sont plus en mesure de suivre le plan d’études.
+2 La mise à disposition est en principe déterminée sur la base d’une attestation délivrée par un spécialiste des troubles spécifiques de l’apprentissage. Elle est fonction des moyens déjà offerts à l’élève par l’environnement scolaire qu’elle ou il fréquente.
+3 L’office met à disposition les dispositifs numériques, sous forme techniques ou d’applications, et finance cas échéant, un nombre limité d’heures d’accompagnement, notamment d’enseignement et coaching, pour assurer l’utilisation du dispositif.
+4 L’office règle la mise en œuvre dans une directive, qui détaille les aménagements concernés, ainsi que les conditions de mise à disposition et celles de financement d’un accompagnement.

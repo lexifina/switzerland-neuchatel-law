@@ -1,0 +1,5 @@
+# Art. 39bis Disposition transitoire relative au concept cantonal de pédagogie spécialisée
+1 Outre les critères définis à l'article 3 du présent règlement, sont pris en charge par des mesures pédago-thérapeutiques les troubles psychomoteurs graves diagnostiqués sur la base des tests M-ABC, NP-MOT.
+2 D'autres troubles psychomoteurs graves diagnostiqués par observation clinique sur la base des échelles de développement reconnues peuvent être pris en charge.
+3 Outre les critères définis à l'article 3 du présent règlement, sont pris en charge par des mesures d’orthophonie, aux conditions fixées dans les directives de l’office, les troubles du développement du langage oral, de la communication, du débit, de la voix et de la tonalité, de l’oralité, d’apprentissage de la lecture, d’apprentissage de la production écrite et d’apprentissage de la numération et du calcul.
+4 Dans les limites du concept cantonal de pédagogie spécialisée, le département peut déterminer, dans une directive, la prise en charge d’autres mesures et prestations.
