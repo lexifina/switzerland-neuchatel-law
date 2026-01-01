@@ -1,0 +1,2 @@
+# Art. 21b Rapports de l'organe de révision destinés à des entités externes à l'administration cantonale
+Le CCFI établit un rapport de révision destiné aux organes de l’entité contrôlée, conformément aux normes professionnelles et aux bases légales applicables. Le rapport est également adressé aux membres du Conseil d'Etat, à la chancelière ou au chancelier d'Etat, au service financier ainsi qu'aux autres services de l'administration cantonale concernés. L'article 21, alinéas 2 à 4, n’est pas applicable.
