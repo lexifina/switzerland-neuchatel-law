@@ -1,0 +1,2 @@
+# Art. 98a Tribunaux régionaux
+Tant que la loi spéciale prévue à l'article 8, alinéa 1, de la présente loi n'est pas entrée en vigueur, il subsiste deux juridictions de première instance distinctes, l'une pour les régions électorales du Littoral et du Val-de-Travers et l'autre pour les régions électorales des Montagnes et du Val-de-Ruz, au sens de l'article 44a de la loi sur les droits politiques (LDP), du 17 octobre 1984.

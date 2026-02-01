@@ -1,0 +1,5 @@
+# Art. 59a Compétences
+1 La commission administrative est compétente pour rendre les décisions que la législation en matière de statut de la fonction publique attribue au Conseil d'Etat, au chef du département ou à l'autorité de nomination.
+2 Le secrétaire général exerce les compétences que la législation en matière de statut de la fonction publique attribue au chef de service. Il peut déléguer cette compétence aux personnes responsables du greffe d'une autorité judiciaire.
+3 Les décisions de la commission administrative et du secrétaire général ou de ses délégataires peuvent faire l'objet d'un recours au Tribunal cantonal conformément à la loi sur la procédure administrative (LPA), du 18 mars 2025.
+4 Dans l'exercice de leurs compétences, la commission administrative et le secrétaire général ainsi que ses délégataires tiennent compte, de manière appropriée aux besoins des autorités judiciaires, de la politique menée par le Conseil d'Etat pour le personnel de l'administration cantonale.
