@@ -1,0 +1,2 @@
+# Art. 43a Haute surveillance
+En matière de haute surveillance et d’évaluation des politiques publiques en général et plus particulièrement lors de travaux des commissions de gestion et d’évaluation et judiciaire, ou lors de l’examen de demandes de grâce, les membres de commissions ou de sous-commissions se récusent non seulement pour les motifs de l’article 42, mais également lorsque leur impartialité pourrait être mise en cause pour d’autres raisons.
