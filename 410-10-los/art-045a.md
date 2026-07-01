@@ -1,0 +1,2 @@
+# Art. 45a Elèves en école ou en établissement spécialisés
+La participation des communes aux frais de scolarisation de leurs ressortissants en école ou en établissement spécialisé est égale au coût moyen d'un élève en âge de scolarité obligatoire au sens de la présente loi et est déterminée, pour chaque année de la scolarité obligatoire, annuellement sur la base de la dernière version disponible des données publiées par l'Office fédéral de la statistique relativement aux dépenses publiques d'éducation.

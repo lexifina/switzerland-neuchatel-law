@@ -1,0 +1,6 @@
+# Art. 45b Répartition des charges liées au traitement des enseignants entre les communes
+1 Les communes membres de cercles scolaires, dont les charges nettes relatives au traitement et à la prévoyance professionnelle du personnel enseignant sont inférieures à la moyenne de l’ensemble des cercles scolaires, alimentent le fonds de péréquation des charges scolaires en fonction de leur population et de l’écart des charges nettes précitées par rapport à la moyenne de l’ensemble des cercles scolaires.
+2 Les communes membres de cercles scolaires, dont les charges nettes relatives au traitement et à la prévoyance professionnelle du personnel enseignant sont supérieures à la moyenne de l’ensemble des cercles scolaires, bénéficient des transferts du fonds de péréquation des charges scolaires en fonction de leur population et de l’écart des charges nettes précitées par rapport à la moyenne de l’ensemble des cercles scolaires.
+3 La population prise en compte pour les communes dont les élèves fréquentent deux ou plusieurs cercles scolaires est proportionnelle à la répartition entre les différents cercles scolaires des élèves domiciliés dans la commune.
+4 Elle correspond à la population résidante selon le recensement cantonal.
+5 Le décompte de l’année n est établi sur la base des données de l’année n-2.
