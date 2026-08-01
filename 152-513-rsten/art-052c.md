@@ -1,0 +1,3 @@
+# Art. 52c Congé en cas d'hospitalisation prolongée du nouveau-né
+1 En cas d'hospitalisation prolongée du nouveau-né, au sens de la loi fédérale sur les allocations pour perte de gain en cas de service et de maternité (loi sur les allocations pour perte de gain, LAPG), du 25 septembre 1952, l'autorité compétente accorde à la mère dès la fin de son congé maternité un congé payé d'une durée équivalente à celle de l'hospitalisation, mais de 4 mois au maximum.
+2 Lorsqu'il s'agit d'un couple relevant du budget de l'Etat, le congé pourra être partagé avec le père pour autant que la mère y consente et que la part de son propre congé soit d'au moins 8 semaines.

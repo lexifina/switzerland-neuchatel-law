@@ -1,0 +1,5 @@
+# Art. 14c Charge d’enseignement des membres de direction au postobligatoire
+1 La charge d'enseignement qui peut être confiée aux membres de direction des établissements cantonaux d’enseignement public est fixée de cas en cas dans le cahier des charges.
+2 Les membres de direction à plein temps peuvent enseigner jusqu’à 20% dans le cadre de leur engagement en tant que membre de direction.
+3 Les membres de direction à temps partiel peuvent enseigner, en plus de leur engagement en tant que membre de direction, jusqu’à un maximum de 25% de leur taux d’engagement en tant que membre de direction mais au maximum jusqu’à un poste à plein temps. Au-delà d’une charge d’enseignement de 25% de leur taux de membre de direction, ils ou elles sont mis-e-s au bénéfice d'un statut d'enseignant-e pour le surplus.
+4 L’article 26a, alinéas 3 et 4 du règlement concernant les traitements de la fonction publique (RTFP), du 9 mars 2005 et l’article 17 du présent règlement s’appliquent par analogie à l’enseignement rémunéré au titre de membre de direction.
