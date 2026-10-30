@@ -1,0 +1,4597 @@
+{
+ "country": "CH-NE",
+ "acts": [
+  {
+   "slug": "101-cst-ne",
+   "short": "Cst. NE",
+   "title": "Constitution de la République et Canton de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/101.htm",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 115,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/101.htm",
+     "sha256": "2a24c300b942b44d38dc2ebcbf838a52bbeaeb8f2cf80f9206a130d87ac580c2"
+    }
+   ]
+  },
+  {
+   "slug": "120-lalidv",
+   "short": "LALIDV",
+   "title": "Loi d’application de la loi fédérale sur l’interdiction de se dissimuler le visage (LALIDV)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/120.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/120.htm",
+     "sha256": "4390d540d165985119d8b4e360cc50fda8cd5f390eff3a3e0abefcee0fc0bdfb"
+    }
+   ]
+  },
+  {
+   "slug": "131-0-ldcn",
+   "short": "LDCN",
+   "title": "Loi sur le droit de cité neuchâtelois (LDCN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/131.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 54,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/131.0.htm",
+     "sha256": "14702b60133e45c4bdf1fbe3eaef08aaedfb018ec45aad6d5eecbd0391c2dccf"
+    }
+   ]
+  },
+  {
+   "slug": "132-0-lhrch",
+   "short": "LHRCH",
+   "title": "Loi concernant l'harmonisation des registres officiels de personnes et le contrôle des habitants (LHRCH), du l3 novembre 2009",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 69,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.0.htm",
+     "sha256": "a153b901cb370a68af11f8f9f9a571ac42bdba4c18e769b0419142c4f7e67486"
+    }
+   ]
+  },
+  {
+   "slug": "132-04",
+   "short": "132.04",
+   "title": "Loi sur l'intégration et la cohésion multiculturelle",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.04.htm",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.04.htm",
+     "sha256": "1fd10aa9578e9a0898a78c4cebf3a67e3e3f2f100d0bff472eed1650517fd6d2"
+    }
+   ]
+  },
+  {
+   "slug": "141-ldp",
+   "short": "LDP",
+   "title": "Loi sur les droits politiques (LDP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/141.htm",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 225,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/141.htm",
+     "sha256": "eda2fba1655aca87b75fb767752449b36b2f0645f0d1149ea9dd117ce0569fa0"
+    }
+   ]
+  },
+  {
+   "slug": "150-5",
+   "short": "150.5",
+   "title": "Loi sur le traitement de données à des fins de gestion administrative et financière au sein de l'État",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.5.htm",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.5.htm",
+     "sha256": "82b68c269cf1fbac9284dae4d683f998d90547cdccc5f50eb7d9fac0946cee31"
+    }
+   ]
+  },
+  {
+   "slug": "150-10-lresp",
+   "short": "LResp",
+   "title": "Loi sur la responsabilité des collectivités publiques et de leurs agents (Loi sur la responsabilité) (LResp)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 45,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.10.htm",
+     "sha256": "d5c21b5e18d33303468b804b5903929e9da0325f98854caeb7f05be5072c9614"
+    }
+   ]
+  },
+  {
+   "slug": "150-20-lpao",
+   "short": "LPAO",
+   "title": "Loi sur la publication des actes officiels (LPAO)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.20.htm",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.20.htm",
+     "sha256": "545f1f9ea20499425eb408e43b51bc45fe2e10e7cd085fb11d5265e748cb3bf7"
+    }
+   ]
+  },
+  {
+   "slug": "150-32",
+   "short": "150.32",
+   "title": "Loi sur la vidéosurveillance des installations de l'État",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.32.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.32.htm",
+     "sha256": "ad9ae79abcd41f45db03f806d772e97bec95dfb2a55ab71c1863258b9d620a40"
+    }
+   ]
+  },
+  {
+   "slug": "150-33-ltdfo",
+   "short": "LTDFO",
+   "title": "Loi sur le traitement des données dans le domaine de la formation et de l’orientation (LTDFO)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.33.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.33.htm",
+     "sha256": "5115a6026d8cce24368c0b7dde74ff07967c87cab0f4db6b7af48a7b244535cb"
+    }
+   ]
+  },
+  {
+   "slug": "150-50-lbdeee",
+   "short": "LBDEEE",
+   "title": "Loi portant sur la base de données des établissements, entreprises et entités du canton de Neuchâtel (LBDEEE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.50.htm",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.50.htm",
+     "sha256": "e32e4a999abab72c8bc431ce2ae3f07e89e8fba31d37a8b725e63e5143c78778"
+    }
+   ]
+  },
+  {
+   "slug": "151-10-ogc",
+   "short": "OGC",
+   "title": "Loi d'organisation du Grand Conseil (OGC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.10.htm",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 398,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.10.htm",
+     "sha256": "4c7019daaf1b846dda66dc9eed3fdd71f924c5b60ac0a75c275ff5f0762433a1"
+    }
+   ]
+  },
+  {
+   "slug": "151-110",
+   "short": "151.110",
+   "title": "Loi sur la haute surveillance de la gestion des autorités judiciaires et l'exercice des autres compétences du Grand Conseil en matière judiciaire (loi sur la haute surveillance, LHS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.110.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 39,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.110.htm",
+     "sha256": "08650b7ea6baccdd64564e463bc13ad1b8e52902d8e7154e9c49d0768ed4e170"
+    }
+   ]
+  },
+  {
+   "slug": "151-115",
+   "short": "151.115",
+   "title": "Loi sur le droit de pétition (LDPé)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.115.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 20,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.115.htm",
+     "sha256": "1c6ab19c27ce7e8e910ce7a857fcc265796d6eb38009cad675facd7ebd6db0fd"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-lce",
+   "short": "LCE",
+   "title": "Loi sur l'organisation du Conseil d'Etat et de l'administration cantonale (LCE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 59,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.htm",
+     "sha256": "505df0a4289f4c00a055a96a5dc14ccc408bf04191ee7c070fb80aa31ed72b14"
+    }
+   ]
+  },
+  {
+   "slug": "152-130-lpa",
+   "short": "LPA",
+   "title": "Loi sur la procédure administrative (LPA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.130.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 138,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.130.htm",
+     "sha256": "f4da0e09b195480fa50a6fa04d21cddc17696b16533858b7ce9ca46d4c70ff9f"
+    }
+   ]
+  },
+  {
+   "slug": "152-510-lst",
+   "short": "LSt",
+   "title": "Loi sur le statut de la fonction publique (LSt)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.510.htm",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 101,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.510.htm",
+     "sha256": "eed61f8723a80508027e0e007eeca72c9fe478cb27646a0cae95e6b812f09582"
+    }
+   ]
+  },
+  {
+   "slug": "152-550-lcpfpub",
+   "short": "LCPFPub",
+   "title": "Loi sur la Caisse de pensions pour la fonction publique du canton de Neuchâtel (LCPFPub)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.550.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 52,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.550.htm",
+     "sha256": "e5f4c59cf4435fa22fb68ec2b2ebaf26ad337e272bdfd97007d0f899a08b795e"
+    }
+   ]
+  },
+  {
+   "slug": "161-1-ojn",
+   "short": "OJN",
+   "title": "Loi d'organisation judiciaire neuchâteloise (OJN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.1.htm",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 124,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.1.htm",
+     "sha256": "0abca66d7d56f913635a86272f88b64bd1d6e371bc8adbe7d2572c26b2458eb9"
+    }
+   ]
+  },
+  {
+   "slug": "161-2-laj",
+   "short": "LAJ",
+   "title": "Loi sur l’assistance judiciaire (LAJ)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.2.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 49,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.2.htm",
+     "sha256": "6eba8d1cfa1cb25797c04141a9ca215f856e0b24001dae68326b241e20581402"
+    }
+   ]
+  },
+  {
+   "slug": "161-3-lmcp",
+   "short": "LMCP",
+   "title": "Loi sur la médiation civile et pénale (LMCP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.3.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 29,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.3.htm",
+     "sha256": "ad0c2dafd772d4a22ef231ff76319777884b50514127561d4f7ca2178177364a"
+    }
+   ]
+  },
+  {
+   "slug": "164-1-ltfrais",
+   "short": "LTFrais",
+   "title": "Loi fixant le tarif des frais, des émoluments de chancellerie et des dépens en matière civile, pénale et administrative (LTFrais)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/164.1.htm",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 74,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/164.1.htm",
+     "sha256": "5ff306774a17be23648a1c380d3ea3613dce1b929ba3a817930782f34868c492"
+    }
+   ]
+  },
+  {
+   "slug": "165-10-lav",
+   "short": "LAv",
+   "title": "Loi sur la profession d'avocat ou d'avocate (LAv)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/165.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 55,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/165.10.htm",
+     "sha256": "f6b0528177323adad82f71c8eba2147cd409aee2155e9a2e4e90b342b60fe151"
+    }
+   ]
+  },
+  {
+   "slug": "166-10-ln",
+   "short": "LN",
+   "title": "Loi sur le notariat (LN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 122,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.10.htm",
+     "sha256": "25a5556f7ef00505e0c258543a6d9befecc7e7afa315e01669b9222b672d9c42"
+    }
+   ]
+  },
+  {
+   "slug": "171-1-lco",
+   "short": "LCo",
+   "title": "Loi sur les communes (LCo)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 112,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.1.htm",
+     "sha256": "a99baaef158f71897d75f9cdc5c74b16572274d3ab7a1538010634b2a8819b71"
+    }
+   ]
+  },
+  {
+   "slug": "171-16-lpfi",
+   "short": "LPFI",
+   "title": "Loi sur la péréquation financière intercommunale (LPFI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.16.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.16.htm",
+     "sha256": "0ed8a3b33e90e3f5892cd53ea7322254db72d965c0257c587fb1ba245d926ab0"
+    }
+   ]
+  },
+  {
+   "slug": "172-41-lfac",
+   "short": "LFAC",
+   "title": "Loi sur le fonds d'aide aux communes (LFAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/172.41.htm",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/172.41.htm",
+     "sha256": "528efdf34f5c69f16d0c5bd3d7bc6e1112efa1cb6a26a5f881d84e19cf72a9f9"
+    }
+   ]
+  },
+  {
+   "slug": "211-1-li-cc",
+   "short": "LI-CC",
+   "title": "Loi concernant l'introduction du code civil suisse (LI-CC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/211.1.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 98,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/211.1.htm",
+     "sha256": "31ff4bfc9bd2f5871cc669488e72366d932f107a45b1da78a2bde37085deca60"
+    }
+   ]
+  },
+  {
+   "slug": "212-120-10",
+   "short": "212.120.10",
+   "title": "Loi sur le partenariat enregistré",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/212.120.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/212.120.10.htm",
+     "sha256": "896062ce5e9a256d720846a3dcb888532937803e09bb6dec9cbfd8c9b683cceb"
+    }
+   ]
+  },
+  {
+   "slug": "213-32-lapea",
+   "short": "LAPEA",
+   "title": "Loi concernant les autorités de protection de l'enfant et de l'adulte (LAPEA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.32.htm",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 55,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.32.htm",
+     "sha256": "088f09bccad12cb4e1f5a826a6731a881e5d07bdaf27eda3cc583fcce10a4015"
+    }
+   ]
+  },
+  {
+   "slug": "213-221-lrace",
+   "short": "LRACE",
+   "title": "Loi sur le recouvrement et l'avance des contributions d'entretien (LRACE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.221.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.221.htm",
+     "sha256": "93d93f1a911c2f7bb6095d8346663db2ad135298e6221282b8ddbc94979f4fca"
+    }
+   ]
+  },
+  {
+   "slug": "214-10-lacdm",
+   "short": "LACDM",
+   "title": "Loi sur le traitement des actes à cause de mort et actes similaires (LACDM)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/214.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 73,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/214.10.htm",
+     "sha256": "40d9d1c9d29c43bcf53bfb58619b3cdb2950f2033774e9fff0cce94b54ccaf8b"
+    }
+   ]
+  },
+  {
+   "slug": "215-411-6-lerf",
+   "short": "LERF",
+   "title": "Loi concernant le tarif des émoluments du registre foncier (LERF)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.411.6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.411.6.htm",
+     "sha256": "72f29a5dd6666163f9e1f3115de6dc891c6f06bd8174230238570de7859133ed"
+    }
+   ]
+  },
+  {
+   "slug": "224-1-li-co",
+   "short": "LI-CO",
+   "title": "Loi d'introduction du code des obligations (LI-CO)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/224.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/224.1.htm",
+     "sha256": "c0bb5f705c9f227091b30b05f7527b0ab0e26fe5dc8a26efaf167030b44e2dee"
+    }
+   ]
+  },
+  {
+   "slug": "251-1-li-cpc",
+   "short": "LI-CPC",
+   "title": "Loi d'introduction du code de procédure civile (LI-CPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/251.1.htm",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/251.1.htm",
+     "sha256": "5acce7ed56ea9dda28ae1f8a7a7fb63614123c1996e8d2a2338cb5447cfaad28"
+    }
+   ]
+  },
+  {
+   "slug": "261-1-lilp",
+   "short": "LILP",
+   "title": "Loi d'introduction de la loi fédérale sur la poursuite pour dettes et la faillite (LILP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/261.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 46,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/261.1.htm",
+     "sha256": "fc408e5677f1bc0de20b19e704bde9b9871bb5b7e0abf2866fb41310215c0956"
+    }
+   ]
+  },
+  {
+   "slug": "322-0-li-cpp",
+   "short": "LI-CPP",
+   "title": "Loi d’introduction du Code de procédure pénale suisse (LI-CPP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.0.htm",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 41,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.0.htm",
+     "sha256": "2bb5f050d2e92defb78e91a3046d955118246a8a9137ddbbc9af927cc51a67bf"
+    }
+   ]
+  },
+  {
+   "slug": "322-05-lvd",
+   "short": "LVD",
+   "title": "Loi sur la lutte contre la violence domestique (LVD)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.05.htm",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.05.htm",
+     "sha256": "dedc49659ba5acdbf9b8382c53880e3b7d1fd9d9782f27d7d3fe07e8009b3a62"
+    }
+   ]
+  },
+  {
+   "slug": "323-0-li-ppmin",
+   "short": "LI-PPMin",
+   "title": "Loi d'introduction de la loi fédérale sur la procédure pénale applicable aux mineurs (LI-PPMin)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/323.0.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/323.0.htm",
+     "sha256": "4967bbf21ff23c6b19a4fc0ba6473b3b8c3303bad23017c304c5c0afd2bb6997"
+    }
+   ]
+  },
+  {
+   "slug": "351-0-lpmpa",
+   "short": "LPMPA",
+   "title": "Loi sur l'exécution des peines et des mesures pour les personnes adultes (LPMPA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/351.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 129,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/351.0.htm",
+     "sha256": "02709983a92455a7bb8b5af741aec2863556d7fe6556b50a35a5c84191d10ff5"
+    }
+   ]
+  },
+  {
+   "slug": "400-1-lae",
+   "short": "LAE",
+   "title": "Loi sur l'accueil des enfants (LAE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/400.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 55,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/400.1.htm",
+     "sha256": "0a1aa7f03e4b10f40fd25b5abc7a17ca33dc527f6381b0b362a55c91a277efaa"
+    }
+   ]
+  },
+  {
+   "slug": "410-10-los",
+   "short": "LOS",
+   "title": "Loi sur l'organisation scolaire (LOS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.10.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 77,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.10.htm",
+     "sha256": "3122279483d9c0deac40c55e21f4837aebfef732e85a74102b64ddb57a7cc0ab"
+    }
+   ]
+  },
+  {
+   "slug": "410-23-las",
+   "short": "LAS",
+   "title": "Loi concernant les autorités scolaires (LAS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.23.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.23.htm",
+     "sha256": "bbf1d5a690f48c9437e09ac3a9e20ec30a27fdb2be768352fc9c7a3f1ebcda26"
+    }
+   ]
+  },
+  {
+   "slug": "410-82-lsaj",
+   "short": "LSAJ",
+   "title": "Loi sur le soutien aux activités de jeunesse extra-scolaires (LSAJ)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.82.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.82.htm",
+     "sha256": "53379dfb683d21ff6f7498a5761d04c62de9c9b835a95e2ab2759325ec04a71d"
+    }
+   ]
+  },
+  {
+   "slug": "410-131",
+   "short": "410.131",
+   "title": "Loi sur l'enseignement secondaire supérieur",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.131.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 32,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.131.htm",
+     "sha256": "32929faf2b6bde4e93dfadaddddb223d9865bebb3d7c9223e239be890b26b92c"
+    }
+   ]
+  },
+  {
+   "slug": "410-810-losp",
+   "short": "LOSP",
+   "title": "Loi sur l'orientation scolaire et professionnelle (LOSP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.810.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.810.htm",
+     "sha256": "dd5f3b58740456eb84bbd4379780ef21b01d9ab84501457664424c62ed4dcc8d"
+    }
+   ]
+  },
+  {
+   "slug": "414-10-lfp",
+   "short": "LFP",
+   "title": "Loi sur la formation professionnelle (LFP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.10.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 83,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.10.htm",
+     "sha256": "8084f23ca40628204046b01aa14e3bf9a94c09d5da398917331e4339b26aea15"
+    }
+   ]
+  },
+  {
+   "slug": "414-111-lfapp",
+   "short": "LFAPP",
+   "title": "Loi instituant un fonds pour l'apprentissage et le perfectionnement professionnel (LFAPP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.111.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 39,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.111.htm",
+     "sha256": "b9b75a8cfbb5d5cacadb645439268351d3c3946c9bfd64eb994867bd14a3fffc"
+    }
+   ]
+  },
+  {
+   "slug": "414-112-lifp",
+   "short": "LIFP",
+   "title": "Loi sur l'insertion des jeunes en formation professionnelle (LIFP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.112.htm",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 14,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.112.htm",
+     "sha256": "91c76b858062daa45201dfb6bce21ee54203e609204ecfedcee2dd0fb7934b86"
+    }
+   ]
+  },
+  {
+   "slug": "414-231-0-lcnip",
+   "short": "LCNIP",
+   "title": "Loi sur le Centre neuchâtelois d'intégration professionnelle (LCNIP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.231.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 23,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.231.0.htm",
+     "sha256": "fb595b3bd413a27724ec8e94114de8729c6b7b546822bcef55781424ccfe7fdd"
+    }
+   ]
+  },
+  {
+   "slug": "416-100-lune",
+   "short": "LUNE",
+   "title": "Loi sur l’Université de Neuchâtel (LUNE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.100.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 116,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.100.htm",
+     "sha256": "9877e4860f97119993ea59eefff5a4ea8e6e90a181c356cbe1ddac9f2fd2bf2f"
+    }
+   ]
+  },
+  {
+   "slug": "416-633-3-hep-bejune",
+   "short": "HEP-BEJUNE",
+   "title": "Loi sur la Haute école pédagogique (HEP-BEJUNE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.633.3.htm",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 8,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.633.3.htm",
+     "sha256": "a15b86d6e6654d1716f5916ac8c2f34540bd973de70a175df4b098b6a23db68e"
+    }
+   ]
+  },
+  {
+   "slug": "417-10-lsport",
+   "short": "LSport",
+   "title": "Loi sur le sport (LSport)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.10.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 38,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.10.htm",
+     "sha256": "fc4d11573325ca28feb24b5a97d46f3de7577cfecb7213f31872acae6cb0c7ba"
+    }
+   ]
+  },
+  {
+   "slug": "418-10-laf",
+   "short": "LAF",
+   "title": "Loi sur les aides à la formation (LAF)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/418.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/418.10.htm",
+     "sha256": "8e278b336219d3ad2c9c7d3f5fca7949b6228c964241f6541fff2a0e0b511bac"
+    }
+   ]
+  },
+  {
+   "slug": "442-20-larch",
+   "short": "LArch",
+   "title": "Loi sur l'archivage (LArch)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.20.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.20.htm",
+     "sha256": "a7c6e2b5b489a4235dcbeeaa7dd20bfed1a28fff268b970768c5ea02ce6e92ee"
+    }
+   ]
+  },
+  {
+   "slug": "442-41",
+   "short": "442.41",
+   "title": "Loi concernant l'aide à la lecture publique et aux bibliothèques",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.41.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.41.htm",
+     "sha256": "b68081ec8b23979b6eb49a74b33af1428f6203dda4b02e5a709db82dda7c473c"
+    }
+   ]
+  },
+  {
+   "slug": "451-01-leac",
+   "short": "LEAC",
+   "title": "Loi sur l’encouragement des activités culturelles et artistiques (LEAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.01.htm",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 25,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.01.htm",
+     "sha256": "0107561cd1124ba880b3ba7e12a393c32e7902d663bf292c0d0be5b4f32f0311"
+    }
+   ]
+  },
+  {
+   "slug": "451-20-lfmc",
+   "short": "LFMC",
+   "title": "Loi sur la formation musicale (LFMC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.20.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.20.htm",
+     "sha256": "f4bc0ac41098609c05cc7fa1aee166f9a68725335c7008e01b9e552f4309bc8d"
+    }
+   ]
+  },
+  {
+   "slug": "461-30-lspc",
+   "short": "LSPC",
+   "title": "Loi sur la sauvegarde du patrimoine culturel (LSPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.30.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 62,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.30.htm",
+     "sha256": "f5636966cc75f71a1cf6f7e3c288ab2766daf1e26372d97553947ff416f6a62f"
+    }
+   ]
+  },
+  {
+   "slug": "465-0-lilpa",
+   "short": "LILPA",
+   "title": "Loi d'introduction de la législation fédérale sur la protection des animaux (LILPA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/465.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/465.0.htm",
+     "sha256": "e7266e061764d2424fe322726be111186eae0b2048a03bb05b3ad665840cb444"
+    }
+   ]
+  },
+  {
+   "slug": "521-1-la-lppci",
+   "short": "LA-LPPCi",
+   "title": "Loi d'application de la législation fédérale sur la protection de la population et sur la protection civile (LA-LPPCi)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 56,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.1.htm",
+     "sha256": "50a982bdc9845c8cb76aa45c985b29cb660bfd5926166d6c591ba3769983e5dd"
+    }
+   ]
+  },
+  {
+   "slug": "565-1",
+   "short": "565.1",
+   "title": "Loi sur les sépultures (inhumation gratuite)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/565.1.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 49,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/565.1.htm",
+     "sha256": "06af6ad32de6c97e2dd4a6bc3fba5324131dc18ff65ed176d5e115f39fe1b602"
+    }
+   ]
+  },
+  {
+   "slug": "601-lfinec",
+   "short": "LFinEC",
+   "title": "Loi sur les finances de l'Etat et des communes (LFinEC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 101,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.htm",
+     "sha256": "5bac4d854ec3053a03ce19ee01429b9a3af06bdc82f91d04282cfcd848ca2312"
+    }
+   ]
+  },
+  {
+   "slug": "601-3-lccfi",
+   "short": "LCCFI",
+   "title": "Loi sur le contrôle des finances (LCCFI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.3.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.3.htm",
+     "sha256": "d6b2115f0768e6aa0e109155603c68e70abb22c2ec9767ce1c93d20b7705eb36"
+    }
+   ]
+  },
+  {
+   "slug": "601-8-lsub",
+   "short": "LSub",
+   "title": "Loi sur les subventions (LSub)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.8.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.8.htm",
+     "sha256": "dd88f90e9fb15d8eac00200f661b526c5a825670284d089b59cdfc2e0419df28"
+    }
+   ]
+  },
+  {
+   "slug": "601-70-laimp",
+   "short": "LAIMP",
+   "title": "Loi portant adhésion à l'Accord intercantonal sur les marchés publics (LAIMP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.70.htm",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 5,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.70.htm",
+     "sha256": "ed61416582f0bf2885d3b2057ecbdc28de9ba6d37e2adca362af2dd68560aca7"
+    }
+   ]
+  },
+  {
+   "slug": "621-lbcn",
+   "short": "LBCN",
+   "title": "Loi sur la Banque cantonale neuchâteloise (LBCN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/621.htm",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 36,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/621.htm",
+     "sha256": "50d94d322a976f1c3ace47344667d8a5ddb32a384d87aafa005b0f013a911929"
+    }
+   ]
+  },
+  {
+   "slug": "631-0-lcdir",
+   "short": "LCdir",
+   "title": "Loi sur les contributions directes (LCdir)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 344,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.0.htm",
+     "sha256": "623f1802ae6f9c310c40a7e054e01477f6155f6e15211a34d12829a7291f5865"
+    }
+   ]
+  },
+  {
+   "slug": "631-2",
+   "short": "631.2",
+   "title": "Loi sur la redistribution du produit de l'impôt communal sur le bénéfice et le capital des personnes morales entre les communes",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.2.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.2.htm",
+     "sha256": "c31011bfcc07614ed6c479e4547f0c7c3ff60fe5e9dbf8389f080e20638ad9de"
+    }
+   ]
+  },
+  {
+   "slug": "633-0-lsucc",
+   "short": "LSucc",
+   "title": "Loi instituant un impôt sur les successions et sur les donations entre vifs (LSucc)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/633.0.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 55,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/633.0.htm",
+     "sha256": "b58ccd918a12f5f61b5b37b885ce501229e7450ed9189cd0b587b9b6075a33b4"
+    }
+   ]
+  },
+  {
+   "slug": "635-0-ldmi",
+   "short": "LDMI",
+   "title": "Loi concernant la perception de droits de mutation sur les transferts immobiliers (LDMI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/635.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/635.0.htm",
+     "sha256": "ab9aa05abe6d22de1b2cd00e4174eead75a582356f337bd1caa22f75121013fd"
+    }
+   ]
+  },
+  {
+   "slug": "636-20-lchiens",
+   "short": "LChiens",
+   "title": "Loi sur les chiens (LChiens)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.20.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.20.htm",
+     "sha256": "a2a9d5c8a9508695be51754178e456bf3c2a73f648e2733e53904a64dd84e915"
+    }
+   ]
+  },
+  {
+   "slug": "637-20-lrifd",
+   "short": "LRIFD",
+   "title": "Loi concernant la répartition de la part du canton au produit de l'impôt fédéral direct (LRIFD)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/637.20.htm",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/637.20.htm",
+     "sha256": "b5c24378a8a1049534c37fd2e92b70a5082ea0f72e7f122f71c811da7c1ebc8d"
+    }
+   ]
+  },
+  {
+   "slug": "701-0-lcat",
+   "short": "LCAT",
+   "title": "Loi cantonale sur l'aménagement du territoire (LCAT)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 180,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.0.htm",
+     "sha256": "ac0307f8e95c2669ee3d2de189c0d24f62bd3d6bc9b4df941c1867fb94578e19"
+    }
+   ]
+  },
+  {
+   "slug": "701-2-lmd",
+   "short": "LMD",
+   "title": "Loi sur la mobilité douce (LMD)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.2.htm",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 27,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.2.htm",
+     "sha256": "1b10897cd4e34223a331f651baea2e69d28a3c775fb440cb2f87d423ab14b089"
+    }
+   ]
+  },
+  {
+   "slug": "701-6-li-lcpr",
+   "short": "LI-LCPR",
+   "title": "Loi d'introduction de la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre (LI-LCPR)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 29,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.6.htm",
+     "sha256": "fdc332d96a2c354e1c55a365fe73c6f316a52132030da51cec6cbab17b1637e3"
+    }
+   ]
+  },
+  {
+   "slug": "710-lexup",
+   "short": "LEXUP",
+   "title": "Loi sur l'expropriation pour cause d'utilité publique (LEXUP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/710.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 119,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/710.htm",
+     "sha256": "508b9c9d6ec1c135169bba505aed2415551b0955a86d868338bbbd829fb8da7d"
+    }
+   ]
+  },
+  {
+   "slug": "720-0-lconstr",
+   "short": "LConstr.",
+   "title": "Loi sur les constructions (LConstr.)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 77,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.0.htm",
+     "sha256": "81ba0672ab2c42e625f5b523282d5ec93b9988645d5209c593211cbf99344ae9"
+    }
+   ]
+  },
+  {
+   "slug": "727-0-ludp",
+   "short": "LUDP",
+   "title": "Loi sur l'utilisation du domaine public (LUDP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.0.htm",
+     "sha256": "e318279243823764dd793c454a8dd5064f9619dd28191b54aedaa562b4d4595b"
+    }
+   ]
+  },
+  {
+   "slug": "727-2-lscn",
+   "short": "LSCN",
+   "title": "Loi sur le stationnement des communautés nomades (LSCN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.2.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 36,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.2.htm",
+     "sha256": "698185302268ea659ff14934b8bbcdb2913951f0e414221c909bdd875f89bd98"
+    }
+   ]
+  },
+  {
+   "slug": "731-250",
+   "short": "731.250",
+   "title": "Loi sur le fonds cantonal des eaux",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.250.htm",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.250.htm",
+     "sha256": "a1eaac42d61e677e2e4293964b3e9e76f951ac7c07ff32e4638c2ddba87d230c"
+    }
+   ]
+  },
+  {
+   "slug": "735-10-lrvp",
+   "short": "LRVP",
+   "title": "Loi sur les routes et voies publiques (LRVP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.10.htm",
+   "versions": [
+    {
+     "from": "2026-04-22",
+     "units": 95,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.10.htm",
+     "sha256": "cfe78554cd2d5ef08f98bf4636bdd0bf09e82cac51ec3f08b41b05aa12aeefd6"
+    }
+   ]
+  },
+  {
+   "slug": "735-15-lrnrp",
+   "short": "LRNRP",
+   "title": "Loi sur les routes nationales, ainsi que sur les routes principales et autres routes bénéficiant de contributions de la Confédération (LRNRP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.15.htm",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.15.htm",
+     "sha256": "3980b6cdd08b9d62feeeb3ef728f9ce2b3e6817d2b9ca3fc7743015d080f8fb1"
+    }
+   ]
+  },
+  {
+   "slug": "735-17-lern",
+   "short": "LERN",
+   "title": "Loi sur l’entretien des routes nationales (LERN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.17.htm",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 34,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.17.htm",
+     "sha256": "69f2f06c7536900c2a5660a56994a2b19e561c2f5608f8c7a71fc1bb223164d4"
+    }
+   ]
+  },
+  {
+   "slug": "740-1-lcen",
+   "short": "LCEn",
+   "title": "Loi cantonale sur l’énergie (LCEn)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 85,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.1.htm",
+     "sha256": "ed8066d2202264a9b3da1a8dd8a1358c7803f7c881d34b8fcb3bc03f06409959"
+    }
+   ]
+  },
+  {
+   "slug": "740-101-lael",
+   "short": "LAEL",
+   "title": "Loi sur l’approvisionnement en électricité (LAEL)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.101.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.101.htm",
+     "sha256": "88bbb1b23e7ea1d6a1b24b816c24a2078f308651c8661e1b9018f45e62897b83"
+    }
+   ]
+  },
+  {
+   "slug": "751-0",
+   "short": "751.0",
+   "title": "Loi d'introduction de la législation fédérale sur la géoinformation (LGéo): loi cantonale sur la géoinformation (LCGéo)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/751.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/751.0.htm",
+     "sha256": "cad56d7bfd8118752fd62b37f0062e7ae19b6f17b1b527956bf7c8968f2241d7"
+    }
+   ]
+  },
+  {
+   "slug": "761-10-li-lcr",
+   "short": "LI-LCR",
+   "title": "Loi d'introduction des prescriptions fédérales sur la circulation routière (LI-LCR)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.10.htm",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.10.htm",
+     "sha256": "ea1ce6d830620204aa237268e9ecafb161074f3e4b72e547695027d74798c3a1"
+    }
+   ]
+  },
+  {
+   "slug": "761-20-ltvrb",
+   "short": "LTVRB",
+   "title": "Loi sur la taxe des véhicules automobiles, des remorques et des bateaux (LTVRB)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.20.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.20.htm",
+     "sha256": "e18dc0fc73b131bdf54cd75db204cf844259635d2a4be1660fc618f9e401f824"
+    }
+   ]
+  },
+  {
+   "slug": "761-400-lscan",
+   "short": "LSCAN",
+   "title": "Loi sur le service cantonal des automobiles et de la navigation (LSCAN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.400.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 46,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/761.400.htm",
+     "sha256": "7f2caf07e2caeba86cb1dcd0fa1be6b20548914ade2a1a5ffcc33508e08e86c0"
+    }
+   ]
+  },
+  {
+   "slug": "765-1-ltp",
+   "short": "LTP",
+   "title": "Loi sur les transports publics (LTP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/765.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 57,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/765.1.htm",
+     "sha256": "c2292038068c1519d2e953f36118d28f816b303146159f11b43d9d78e1437bb4"
+    }
+   ]
+  },
+  {
+   "slug": "767-1-ldro",
+   "short": "LDro",
+   "title": "Loi sur les drones (LDro)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/767.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/767.1.htm",
+     "sha256": "5ad8d6067a4a1806dfb235d9debef1941b8ac20fa126bec0b599668b6924e3b2"
+    }
+   ]
+  },
+  {
+   "slug": "780-li-lscpt",
+   "short": "LI-LSCPT",
+   "title": "Loi d'introduction de la loi fédérale sur la surveillance de la correspondance par poste et télécommunication (LI-LSCPT)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/780.htm",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/780.htm",
+     "sha256": "273097d9e98eed02d8cdffce58cdd06819ad625469e7a18702e52c05a10b819b"
+    }
+   ]
+  },
+  {
+   "slug": "801-102",
+   "short": "801.102",
+   "title": "Loi d’exécution de la loi fédérale relative à l’encouragement de la formation dans le domaine des soins infirmiers",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.102.htm",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.102.htm",
+     "sha256": "dfdcd630d86af7d703d66b26b60f66982d8d4525d4bf8714019957b6092d2916"
+    }
+   ]
+  },
+  {
+   "slug": "802-310-lcnp",
+   "short": "LCNP",
+   "title": "Loi sur le Centre neuchâtelois de psychiatrie (LCNP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.310.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 55,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.310.htm",
+     "sha256": "e0e9b1ac9e227d280c2643a5046aa4e8568ede90da82ce5632b21bed17567dd9"
+    }
+   ]
+  },
+  {
+   "slug": "805-10-lpge",
+   "short": "LPGE",
+   "title": "Loi sur la protection et la gestion des eaux (LPGE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 209,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.10.htm",
+     "sha256": "63e28492a862341a764c95473e195e026fc479d5ae958e2c9b7e295942955212"
+    }
+   ]
+  },
+  {
+   "slug": "805-30-ldsp",
+   "short": "LDSP",
+   "title": "Loi sur les déchets et les sites pollués (LDSP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.30.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 66,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.30.htm",
+     "sha256": "00c3c481f0385404f9fd2cfeba9dc8b5f4589809307f0c96c9b8d05a174f07c7"
+    }
+   ]
+  },
+  {
+   "slug": "806-0-la-ldal",
+   "short": "LA-LDAl",
+   "title": "Loi d'application de loi fédérale sur les denrées alimentaires et les objets usuels (LA-LDAl)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/806.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/806.0.htm",
+     "sha256": "cfd5d05eb5465c35e877fbce2bd2341d8be51efffe0a5aa2ab9cd4fc8bc500d5"
+    }
+   ]
+  },
+  {
+   "slug": "813-10-lempl",
+   "short": "LEmpl",
+   "title": "Loi sur l'emploi et l'assurance-chômage (LEmpl)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 89,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.10.htm",
+     "sha256": "6cb3850d7a4a76c0a1f21b3338b6ba7ec5737d9718873d2914537b422464e1a8"
+    }
+   ]
+  },
+  {
+   "slug": "820-22-linca",
+   "short": "LIncA",
+   "title": "Loi sur l’inclusion et l’accompagnement des personnes vivant avec un handicap (LIncA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.22.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 61,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.22.htm",
+     "sha256": "2e01375a8fa0a7fd2e0a91db7488f0ae7fadc3a55e637a9b95ed890d3b1233bb"
+    }
+   ]
+  },
+  {
+   "slug": "820-30-lcpc",
+   "short": "LCPC",
+   "title": "Loi d'introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI (LCPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.30.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.30.htm",
+     "sha256": "ec4aaf7cdf128973cca7e7e3d6fdcc23550d67c1991687e7c60ba3fbbcef4838"
+    }
+   ]
+  },
+  {
+   "slug": "822-10-lilafam",
+   "short": "LILAFam",
+   "title": "Loi d'introduction de la loi fédérale sur les allocations familiales (LILAFam)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.10.htm",
+     "sha256": "c60191d1acf0ce549fe080b47ceceb1ea3b73d6b3ad5b1ef82f8c0fc7efff292"
+    }
+   ]
+  },
+  {
+   "slug": "831-0-lasoc",
+   "short": "LASoc",
+   "title": "Loi sur l'action sociale (LASoc)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 95,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.0.htm",
+     "sha256": "abd05ffe5878f9077ef2128060b76070354f64d8c19945b592868b1936fbec08"
+    }
+   ]
+  },
+  {
+   "slug": "831-3-llps",
+   "short": "LLPS",
+   "title": "Loi sur la lutte et la prévention contre le surendettement (LLPS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.3.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.3.htm",
+     "sha256": "0a8a3acdb18c2c2de76182c5dc0279c2b09c8098b3a68a65a655223cb2619060"
+    }
+   ]
+  },
+  {
+   "slug": "831-4-lhacops",
+   "short": "LHaCoPS",
+   "title": "Loi sur l'harmonisation et la coordination des prestations sociales (LHaCoPS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.4.htm",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.4.htm",
+     "sha256": "36b1cdd19fa8a584ffe45e3a5b5e031b5653d303bd812ae801457307e642214b"
+    }
+   ]
+  },
+  {
+   "slug": "832-10-lesea",
+   "short": "LESEA",
+   "title": "Loi sur l'aide financière aux établissements spécialisés pour enfants et adolescents du canton (LESEA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.10.htm",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.10.htm",
+     "sha256": "ef3a72cd11d244fdc2bd55e4f7ccc30b7c2582b1826b26ee9c99eab2b69ef5bd"
+    }
+   ]
+  },
+  {
+   "slug": "832-30-lfinems",
+   "short": "LFinEMS",
+   "title": "Loi sur le financement des établissements médico-sociaux (LFinEMS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.30.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.30.htm",
+     "sha256": "9646e5a6b381ece02b90e120c31e37a9c5a4b36c280fd8a991a9426486853bd7"
+    }
+   ]
+  },
+  {
+   "slug": "841-0-lal",
+   "short": "LAL",
+   "title": "Loi sur l'aide au logement (LAL)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.0.htm",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.0.htm",
+     "sha256": "416792a59f6f77c3e3c03d1a994aa61e98e36b07e9d9d692ac59692f7ef4dcce"
+    }
+   ]
+  },
+  {
+   "slug": "841-00-lal2",
+   "short": "LAL2",
+   "title": "Loi sur l'aide au logement (LAL2)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.00.htm",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.00.htm",
+     "sha256": "7a73175ea6b3b936a77df839224a473852a99de417a59c18c41a05348eb6fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "846-0-lval",
+   "short": "LVAL",
+   "title": "Loi limitant la mise en vente d'appartements loués (LVAL)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/846.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/846.0.htm",
+     "sha256": "7778d8ca95d7d957c72a35d39bf65702ac23e27353174f71bb25cb78ca8f2888"
+    }
+   ]
+  },
+  {
+   "slug": "861-10-lpdiens",
+   "short": "LPDIENS",
+   "title": "Loi sur la prévention et la défense contre les incendies et les éléments naturels, ainsi que les secours (LPDIENS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 53,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.10.htm",
+     "sha256": "f9fda4e2663514160d8856620332ea70b1f64e0e73a90ab994208925c8ec4c2b"
+    }
+   ]
+  },
+  {
+   "slug": "863-10-lab",
+   "short": "LAB",
+   "title": "Loi sur la préservation et l’assurance des bâtiments (LAB)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/863.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 96,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/863.10.htm",
+     "sha256": "fb3460cea519674f72f5c6cc5b294ff7409bee676c926f76b4c05684321d0bae"
+    }
+   ]
+  },
+  {
+   "slug": "900-1-lade",
+   "short": "LADE",
+   "title": "Loi sur l'appui au développement économique (LADE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/900.1.htm",
+   "versions": [
+    {
+     "from": "2016-04-01",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/900.1.htm",
+     "sha256": "19f3df90d059413c3ff358dab6d9293e694c347df9f12e3949e25d2e0e37e776"
+    }
+   ]
+  },
+  {
+   "slug": "901-02-lelpr",
+   "short": "LELPR",
+   "title": "Loi d'exécution de la loi fédérale sur la politique régionale (LELPR)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/901.02.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/901.02.htm",
+     "sha256": "e05822b85b2c340fbce520c3220542afa1a732e4eff0bd849f73806456853ca8"
+    }
+   ]
+  },
+  {
+   "slug": "913-1-lasa",
+   "short": "LASA",
+   "title": "Loi sur les améliorations structurelles dans l'agriculture (LASA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/913.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 75,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/913.1.htm",
+     "sha256": "e92ffe29d38886d9fa378a3c3afdfa1ee36fe0659d973ebe28697b8557f2319e"
+    }
+   ]
+  },
+  {
+   "slug": "916-120-lvit",
+   "short": "LVit",
+   "title": "Loi sur la viticulture (LVit)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 34,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.htm",
+     "sha256": "dfd542aefde3f9deb282972c198253cac05830041d87a2af4680e23276f1be02"
+    }
+   ]
+  },
+  {
+   "slug": "921-1-lcfo",
+   "short": "LCFo",
+   "title": "Loi cantonale sur les forêts (LCFo)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/921.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 91,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/921.1.htm",
+     "sha256": "6da49e1970e651c4af37cb7f6de5030871efa63e51cc69672176deae99bb8451"
+    }
+   ]
+  },
+  {
+   "slug": "922-10-lfs",
+   "short": "LFS",
+   "title": "Loi sur la faune sauvage (LFS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.10.htm",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 86,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.10.htm",
+     "sha256": "61f1f96ecef5ef8e67db48ab86794b06b6e8390e6a0cb95bc1b0865ffe5110f3"
+    }
+   ]
+  },
+  {
+   "slug": "923-10-lfaq",
+   "short": "LFAq",
+   "title": "Loi sur la faune aquatique (LFAq)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/923.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 57,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/923.10.htm",
+     "sha256": "0e215183a01e94b5e4691bdae168a70cab54371661da6b9d5253f7b5491a9a26"
+    }
+   ]
+  },
+  {
+   "slug": "931-1-luss",
+   "short": "LUSS",
+   "title": "Loi sur l’utilisation du sous-sol (LUSS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/931.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 52,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/931.1.htm",
+     "sha256": "cc0a5615c0815bbd863a6613d5f120ecaa4965cc2e3feeae230e8cc3ddf334ab"
+    }
+   ]
+  },
+  {
+   "slug": "933-10-lep",
+   "short": "LEP",
+   "title": "Loi sur les établissements publics (LEP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 60,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.10.htm",
+     "sha256": "bd5c667e9e78ec6c9bdc9177c7f4d76796cd913047cad4a44dfc57feca86822b"
+    }
+   ]
+  },
+  {
+   "slug": "933-20-ltour",
+   "short": "LTour",
+   "title": "Loi sur l'appui au développement touristique (LTour)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.20.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.20.htm",
+     "sha256": "db3e482dcc61878f7eeb44becf24c040bc05afeb2caa37b41cf976e03f7354bf"
+    }
+   ]
+  },
+  {
+   "slug": "933-52-liljar",
+   "short": "LILJAr",
+   "title": "Loi d’introduction de la loi fédérale sur les jeux d’argent (LILJAr)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.52.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.52.htm",
+     "sha256": "98df7c36c31f5a74788fbacd8eb3a8116fb6953ff245805b92dc54a06786dc9f"
+    }
+   ]
+  },
+  {
+   "slug": "941-2-lbcmp",
+   "short": "LBCMP",
+   "title": "Loi sur le bureau de contrôle des ouvrages en métaux précieux (LBCMP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.2.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.2.htm",
+     "sha256": "2ac4a80c4482138be1b94cdfafefad22a9d9e6df649ae01d215638b93b87fa75"
+    }
+   ]
+  },
+  {
+   "slug": "941-011-lhocom",
+   "short": "LHOCom",
+   "title": "Loi sur les heures d'ouverture des commerces (LHOCom)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.011.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.011.htm",
+     "sha256": "b349a78d698f2992859b4d34cc5e10c7d51da4f349c48afaf48e01b18e7525de"
+    }
+   ]
+  },
+  {
+   "slug": "941-70-lprost",
+   "short": "LProst",
+   "title": "Loi sur la prostitution et la pornographie (LProst)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.70.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 45,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.70.htm",
+     "sha256": "46b89020cd49d79253c15b11c97cf4c8a3347aa9b626a455660e0c7c3b2705a0"
+    }
+   ]
+  },
+  {
+   "slug": "961-1-lccap",
+   "short": "LCCAP",
+   "title": "Loi sur la Caisse cantonale d'assurance populaire (LCCAP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/961.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 39,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/961.1.htm",
+     "sha256": "6a97e4593d474bfea3f9f32eea5b944dccb9354332d7626d5792b3318de132c5"
+    }
+   ]
+  },
+  {
+   "slug": "991",
+   "short": "991",
+   "title": "Loi sur l'aide humanitaire et la coopération au développement",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/991.htm",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/991.htm",
+     "sha256": "1e00cbc3ac1559521709873b20739df36167ee92c733aace79c6068d3368d03a"
+    }
+   ]
+  },
+  {
+   "slug": "131-1-rldcn",
+   "short": "RLDCN",
+   "title": "Règlement d’exécution de la loi sur le droit de cité neuchâtelois (RLDCN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/131.1.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/131.1.htm",
+     "sha256": "9010edb6e536ac047000e59699c6ef16f207a1e3293ca2cef39ff741244ea616"
+    }
+   ]
+  },
+  {
+   "slug": "132-01-rhrch",
+   "short": "RHRCH",
+   "title": "Règlement d'exécution de la loi sur l'harmonisation des registres officiels de personnes et le contrôle des habitants (RHRCH)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.01.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 28,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.01.htm",
+     "sha256": "6ace331f90ea7e85acca49aa101e97d16522ba2ea282e4b5279ee9953472e714"
+    }
+   ]
+  },
+  {
+   "slug": "132-03-ccma",
+   "short": "CCMA",
+   "title": "Règlement de la commission consultative en matière d’asile (CCMA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.03.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.03.htm",
+     "sha256": "c7ff4c56ca70404cd79f17b52b9499e2a70e66a67ba7128e1a761449240b4101"
+    }
+   ]
+  },
+  {
+   "slug": "132-041",
+   "short": "132.041",
+   "title": "Règlement sur l’intégration et la cohésion multiculturelle",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.041.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/132.041.htm",
+     "sha256": "748846fe3ae7a5256c7af3123345e21df5c5d1ee959c2e96514d7cd9b1ca2ca8"
+    }
+   ]
+  },
+  {
+   "slug": "141-01-reldp",
+   "short": "RELDP",
+   "title": "Règlement d'exécution de la loi sur les droits politiques (RELDP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/141.01.htm",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 66,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/141.01.htm",
+     "sha256": "be3b7e2f38c59a29208c2add2632d9f8dac36a236bf94e520c14a7d0ba41c06c"
+    }
+   ]
+  },
+  {
+   "slug": "150-22-relpao",
+   "short": "RELPAO",
+   "title": "Règlement d’exécution de la loi sur la publication des actes officiels (RELPAO)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.22.htm",
+   "versions": [
+    {
+     "from": "2018-05-05",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.22.htm",
+     "sha256": "584c171e590fcc2ad639044ee2a22c11f2db598e7cbafa845c29419f68ff4762"
+    }
+   ]
+  },
+  {
+   "slug": "150-51",
+   "short": "150.51",
+   "title": "Règlement d’exécution de la loi sur le traitement de données à des fins de gestion administrative et financière au sein de l’État",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.51.htm",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.51.htm",
+     "sha256": "d816a0d745b32c98d5e20783916fada9330f15a05957f4d8b8e55cad59203384"
+    }
+   ]
+  },
+  {
+   "slug": "150-401-relgsu",
+   "short": "RELGSU",
+   "title": "Règlement d'exécution de la loi sur le guichet sécurisé unique (RELGSU)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.401.htm",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.401.htm",
+     "sha256": "e2fb188f0bee9995a7791c0eb93f571bf17a7dd9bd98c2a3cb260975afd9b7ad"
+    }
+   ]
+  },
+  {
+   "slug": "150-501-relbdeee",
+   "short": "RELBDEEE",
+   "title": "Règlement d’exécution de la loi sur la base de données des établissements, entreprises et entités du Canton de Neuchâtel (RELBDEEE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.501.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/150.501.htm",
+     "sha256": "52200b39f7fb5fdcea48195752f0844a1973b798cfd8676cd06a68b25c483f3c"
+    }
+   ]
+  },
+  {
+   "slug": "151-20",
+   "short": "151.20",
+   "title": "Règlement sur l’indemnisation des membres et membres suppléants du Grand Conseil",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.20.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.20.htm",
+     "sha256": "f4e310f11ee28cf5c9ece3e204791e55046ed25d6cc605bea1ebadd544f3daf2"
+    }
+   ]
+  },
+  {
+   "slug": "151-104",
+   "short": "151.104",
+   "title": "Règlement d’organisation et de fonctionnement de la commission de gestion et d’évaluation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.104.htm",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 29,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.104.htm",
+     "sha256": "d77ec935bd57788d347c8239e85218b0f075389ab5ce6fe7c0c16020a4ffc066"
+    }
+   ]
+  },
+  {
+   "slug": "151-105",
+   "short": "151.105",
+   "title": "Règlement d'organisation et de fonctionnement de la commission des finances",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.105.htm",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.105.htm",
+     "sha256": "685c375823b28783dcec6fc2040f47e88a8e8ac37320c9b63cdd3ca4e5b37a7d"
+    }
+   ]
+  },
+  {
+   "slug": "151-106",
+   "short": "151.106",
+   "title": "Règlement de la commission des affaires extérieures concernant les délégations",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.106.htm",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.106.htm",
+     "sha256": "107d24b89ff11dabb935b6804d9de5c9102ada45c666b23eeb29ea477150a5ce"
+    }
+   ]
+  },
+  {
+   "slug": "151-107",
+   "short": "151.107",
+   "title": "Règlement de fonctionnement de la commission des affaires extérieures",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.107.htm",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.107.htm",
+     "sha256": "5ce1e6cca38ec2a9221fe5ad6f0dcc5db6367f00f66f7f77338c76a6b116d757"
+    }
+   ]
+  },
+  {
+   "slug": "151-108",
+   "short": "151.108",
+   "title": "Règlement de la commission des pétitions et des grâces sur le traitement des demandes de grâce",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.108.htm",
+   "versions": [
+    {
+     "from": "2014-01-08",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/151.108.htm",
+     "sha256": "fbb2ce98ff637f1f4714c41c150c504df85841e32ececdf21bea622132856883"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-00",
+   "short": "152.100.00",
+   "title": "Règlement protocolaire de la République et Canton de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.00.htm",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 52,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.00.htm",
+     "sha256": "db8eab4e2a88bbcc8633ee11220b6ce89e96f620d53fed1de6a52546e1e2079a"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-01-ro-dsdc",
+   "short": "RO-DSDC",
+   "title": "Règlement d’organisation du Département de la sécurité, de la digitalisation et de la culture (RO-DSDC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.01.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.01.htm",
+     "sha256": "93bafa0e6d5f9dde1b7c76220aaa78140c966b6013c3891ab426dd5070213904"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-001",
+   "short": "152.100.001",
+   "title": "Règlement sur l'organisation du Conseil d'Etat",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.001.htm",
+   "versions": [
+    {
+     "from": "2008-06-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.001.htm",
+     "sha256": "8ee5a1bff59bba2de63dd67f3f5ac13f0a6cb57e60a7d2fd31d1d48fdc0d9e60"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-02-ro-decs",
+   "short": "RO-DECS",
+   "title": "Règlement d’organisation du Département de l’économie et de la cohésion sociale (RO-DECS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.02.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.02.htm",
+     "sha256": "fa9c0ca775434c8ef1b1456ba9d2f4ee7bf9440ca38797844fbd2d258f646864"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-03-ro-ddte",
+   "short": "RO-DDTE",
+   "title": "Règlement d’organisation du Département du développement territorial et de l’environnement (RO-DDTE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.03.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.03.htm",
+     "sha256": "300050f6917a7db77f86368f8e9e4d3bace6eedea7468cdb7553c894774b2a10"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-003",
+   "short": "152.100.003",
+   "title": "Règlement de gestion opérationnelle des services de l'administration cantonale neuchâteloise (Règlement GestionNE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.003.htm",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.003.htm",
+     "sha256": "75d40c52479b167419aecad9ab20c78c7cbc073ed5f1076348242da1795b25fd"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-04-ro-dsjs",
+   "short": "RO-DSJS",
+   "title": "Règlement d’organisation du Département de la santé, de la jeunesse et des sports (RO-DSJS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.04.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.04.htm",
+     "sha256": "e61f19135b68cef8dacfc06ef062a91f0eb71e25db323ceee0a8078a514cb16b"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-05-ro-dffi",
+   "short": "RO-DFFI",
+   "title": "Règlement d’organisation du Département de la formation et des finances (RO-DFFI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.05.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.05.htm",
+     "sha256": "52b426a604a95b2a7e688d86d2bedbacbcde89da68ff2442f9e7a22e255322b6"
+    }
+   ]
+  },
+  {
+   "slug": "152-100-06-ro-chan",
+   "short": "RO-CHAN",
+   "title": "Règlement d’organisation de la chancellerie d’État (RO-CHAN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.06.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.100.06.htm",
+     "sha256": "29ff79078edfb6393f3e3518c2d168d6255e4e7ac64e485eca53c492f5d52771"
+    }
+   ]
+  },
+  {
+   "slug": "152-111-1",
+   "short": "152.111.1",
+   "title": "Règlement d'application de la loi sur la politique familiale et l'égalité entre hommes et femmes",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.111.1.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.111.1.htm",
+     "sha256": "f78bf3e6d7127bd85fd69c1fa79e73f2d2b40200a088f276174b0db039db0398"
+    }
+   ]
+  },
+  {
+   "slug": "152-150-20",
+   "short": "152.150.20",
+   "title": "Règlement fixant les émoluments relatifs à la santé publique",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.150.20.htm",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 21,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.150.20.htm",
+     "sha256": "e2e9f8ef172f67a7acf5f9dd8cdba55aece4a9ac9a935fc95ee9eaeaf938b023"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-rst",
+   "short": "RSt",
+   "title": "Règlement général d'application de la loi sur le statut de la fonction publique (RSt)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.htm",
+     "sha256": "41e80e26839a17a02c5208f1d0a11454ec9f794f7496aed6aee56ae66a09880f"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-4",
+   "short": "152.511.4",
+   "title": "Règlement relatif aux obligations attachées à certaines fonctions de l'administration cantonale",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.4.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.4.htm",
+     "sha256": "4f73fb469e659432dcb3a0bb356cd0eea10d512bc53807ded9ee59f5d0d98907"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-5",
+   "short": "152.511.5",
+   "title": "Règlement relatif à l'interdiction de fumer dans les locaux de l'administration de la République et Canton de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.5.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.5.htm",
+     "sha256": "87b589dad5e6a00a725edf24a8d81fe944a4371322d9b5cdca7c1f1e1e34077a"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-103",
+   "short": "152.511.103",
+   "title": "Règlement sur la fixation et l'évolution des traitements du personnel policier et administratif transféré à la Police neuchâteloise",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.103.htm",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.103.htm",
+     "sha256": "8795226d17ca1de8448cc02f02b5b1844bab3f55d2dbb73940ddcb3c98c93161"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-105",
+   "short": "152.511.105",
+   "title": "Règlement concernant la protection de la santé et la sécurité du travail au sein de l’administration cantonale",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.105.htm",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.511.105.htm",
+     "sha256": "e1d213c16ca309c0363b23f9bd88b6624b4668af7c63cd4d2f867025530679ab"
+    }
+   ]
+  },
+  {
+   "slug": "152-512-rdf",
+   "short": "RDF",
+   "title": "Règlement des fonctionnaires (RDF)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.512.htm",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.512.htm",
+     "sha256": "78695c3adadcff542129352f5c7f2c2dd5681746a2c43621e78a39403714e03b"
+    }
+   ]
+  },
+  {
+   "slug": "152-513-rsten",
+   "short": "RSten",
+   "title": "Règlement général d'application de la loi sur le statut de la fonction publique dans l'enseignement (RSten)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.513.htm",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 103,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/152.513.htm",
+     "sha256": "e300a60ee59d77200305fa2025ece3981dd3ad2f5c86cbc376a4e2d497ed7937"
+    }
+   ]
+  },
+  {
+   "slug": "161-12",
+   "short": "161.12",
+   "title": "Règlement de la Conférence judiciaire",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.12.htm",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.12.htm",
+     "sha256": "f3dae941d8d854eaf9f6a27750bca4b6302169cf1a4e84de4cdf4b823bfcfd59"
+    }
+   ]
+  },
+  {
+   "slug": "161-30-rlmcp",
+   "short": "RLMCP",
+   "title": "Règlement d’exécution de la loi sur la médiation civile et pénale (RLMCP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.30.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 35,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/161.30.htm",
+     "sha256": "becdea07b6ddee9828894b54a604ecc925e9277cbdd99f2d5bb9852e6c9d8587"
+    }
+   ]
+  },
+  {
+   "slug": "162-104",
+   "short": "162.104",
+   "title": "Règlement du Tribunal cantonal",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/162.104.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 35,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/162.104.htm",
+     "sha256": "4c4f2d5847772f89d755fc8abef346277770dca459266f428c6507ccdc57c62f"
+    }
+   ]
+  },
+  {
+   "slug": "162-105",
+   "short": "162.105",
+   "title": "Règlement du Tribunal d’instance du Canton de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/162.105.htm",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/162.105.htm",
+     "sha256": "22f9f6b139e6a4cf10b78953f108f1cdb08df69759a954b52acbbfac43c30a1c"
+    }
+   ]
+  },
+  {
+   "slug": "165-101-rlav",
+   "short": "RLAv",
+   "title": "Règlement d'exécution de la loi sur la profession d'avocat ou d'avocate (RLAv)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/165.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 64,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/165.101.htm",
+     "sha256": "eee45f0fd469f64fe793a802466144973280580b41555a943f8573e886ba3b5f"
+    }
+   ]
+  },
+  {
+   "slug": "166-101-reln",
+   "short": "RELN",
+   "title": "Règlement d'exécution de la loi sur le notariat (RELN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 83,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.101.htm",
+     "sha256": "9259b466f490364fefc4c52b72f9fd5c45a4e0f0390473af717fa58bfa864e5c"
+    }
+   ]
+  },
+  {
+   "slug": "166-101-3",
+   "short": "166.101.3",
+   "title": "Règlement organique du Conseil notarial",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.101.3.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 38,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.101.3.htm",
+     "sha256": "53e232c6b4a1b9ccf89430e19bfee1b62820c507418d2887f15158a596c529a9"
+    }
+   ]
+  },
+  {
+   "slug": "166-102",
+   "short": "166.102",
+   "title": "Règlement sur la formation des stagiaires notaires",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.102.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/166.102.htm",
+     "sha256": "da4bb46e5597778fdfc27d0d858d6bbcc9fed9c92fc3b6998d93dd2ef7aeb7d5"
+    }
+   ]
+  },
+  {
+   "slug": "171-160-ralpfi",
+   "short": "RALPFI",
+   "title": "Règlement d'application de la loi sur la péréquation financière intercommunale (RALPFI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.160.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/171.160.htm",
+     "sha256": "3ad98104071e8fada49df44c2715ccd7fbd91adbffec8834c9110b6bb014bc83"
+    }
+   ]
+  },
+  {
+   "slug": "172-410-ralfac",
+   "short": "RALFAC",
+   "title": "Règlement d'application de la loi sur le fonds d'aide aux communes (RALFAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/172.410.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 27,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/172.410.htm",
+     "sha256": "de3fa8b0d4c273fa7828fbe1bd051bb4aa625eddad5fc1afba06a7a3c3ea5621"
+    }
+   ]
+  },
+  {
+   "slug": "212-120-rec",
+   "short": "REC",
+   "title": "Règlement sur l’état civil (REC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/212.120.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/212.120.htm",
+     "sha256": "0c38e49e4e63f34c9908ce73699ad8df15a9d71698f2f661f3a9c1b3d3307823"
+    }
+   ]
+  },
+  {
+   "slug": "213-31",
+   "short": "213.31",
+   "title": "Règlement du service de protection de l'adulte et de la jeunesse",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.31.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/213.31.htm",
+     "sha256": "0bd5ba02d93ce72bc49292b3ed703bf1fea1738f35a57abbb26b523bc21b4612"
+    }
+   ]
+  },
+  {
+   "slug": "214-101-re-lacdm",
+   "short": "RE-LACDM",
+   "title": "Règlement d'exécution de la loi sur le traitement des actes à cause de mort et actes similaires (RE-LACDM)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/214.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/214.101.htm",
+     "sha256": "e677ea20b3c91f382666947f6f72a44f5e2bcbeaff2631b7d3669917650eb0e5"
+    }
+   ]
+  },
+  {
+   "slug": "215-411-rrf",
+   "short": "RRF",
+   "title": "Règlement sur le registre foncier (RRF)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.411.htm",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 72,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.411.htm",
+     "sha256": "67d9b3f7636f062578d2730addb25c6ac554c5b18f626ae6e25cf01d4f480d9e"
+    }
+   ]
+  },
+  {
+   "slug": "215-421-rlcmo",
+   "short": "RLCMO",
+   "title": "Règlement d'exécution de la loi cantonale sur la mensuration officielle (RLCMO)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.421.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/215.421.htm",
+     "sha256": "f93549ada11e05a4dc7efdef998ed6ef470ecc44fb9abffd45a0f970599b5d4d"
+    }
+   ]
+  },
+  {
+   "slug": "322-003",
+   "short": "322.003",
+   "title": "Règlement de fonctionnement de la commission de dangerosité",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.003.htm",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.003.htm",
+     "sha256": "aba73353de0671c3755881b9877dea6868a9761a78acc0e67b437a443b4850ee"
+    }
+   ]
+  },
+  {
+   "slug": "322-040",
+   "short": "322.040",
+   "title": "Règlement d'exécution de la loi d'introduction de la loi fédérale sur l'aide aux victimes d'infractions",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.040.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/322.040.htm",
+     "sha256": "c07ad2bb776fded70312e352c1be004d60695d80d4e75ec614242df0dab5a476"
+    }
+   ]
+  },
+  {
+   "slug": "354-24",
+   "short": "354.24",
+   "title": "Règlement sur l’exécution des peines privatives de liberté sous surveillance électronique",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/354.24.htm",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 32,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/354.24.htm",
+     "sha256": "a30afaefaf51373eeb635fa9a4c3f39cf7a8999aa6644fbf59fa20d9e18a3ab1"
+    }
+   ]
+  },
+  {
+   "slug": "400-10-regae",
+   "short": "REGAE",
+   "title": "Règlement général sur l’accueil des enfants (REGAE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/400.10.htm",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 78,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/400.10.htm",
+     "sha256": "8e87f11c183d3b0ac0a516c7bf8af19ed8b65347f9e19ee3b40937c41c4cf6ba"
+    }
+   ]
+  },
+  {
+   "slug": "410-131-6-rpt",
+   "short": "RPT",
+   "title": "Règlement transitoire d'exécution de la loi fédérale concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT) en matière de formation scolaire spéciale (REFOSCOS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.131.6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 46,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.131.6.htm",
+     "sha256": "d0ca93f1b1018c2cb6d0e8d7ce718580305f20af7a1bd0afc2e5f43199b68594"
+    }
+   ]
+  },
+  {
+   "slug": "410-246-rise",
+   "short": "RISE",
+   "title": "Règlement de l'informatique scolaire dans l'enseignement obligatoire et postobligatoire (RISE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.246.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 35,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/410.246.htm",
+     "sha256": "7f5486b1a18c94f0393b78c0d8e70ad505a71a916c4113a714bec68a3e3b96fa"
+    }
+   ]
+  },
+  {
+   "slug": "411-110",
+   "short": "411.110",
+   "title": "Règlement des études des lycées cantonaux (admission, promotion et examens)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/411.110.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 50,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/411.110.htm",
+     "sha256": "e0dd29493dffd42c7812281431165e5b9ac7ab6a5042d3be89ffead4e9023571"
+    }
+   ]
+  },
+  {
+   "slug": "414-110",
+   "short": "414.110",
+   "title": "Règlement d’application de la loi sur la formation professionnelle",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 125,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.htm",
+     "sha256": "49e4a07a01ad3745af1c8c8a15688efe306da16ac6e1696655af2499e31f6035"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-01-rg-cpne",
+   "short": "RG-CPNE",
+   "title": "Règlement général du Centre de formation professionnelle neuchâtelois (RG-CPNE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.01.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 54,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.01.htm",
+     "sha256": "1b7ca6d4829c7f6f5c4801757bf77cdcd7e11ef08fc8af2d8c3f07117f999ae8"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-1",
+   "short": "414.110.1",
+   "title": "Règlement général des filières de maturité professionnelle",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.1.htm",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 85,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.1.htm",
+     "sha256": "e328ea3773136d34d3120c2eaafe266f39d9575a9f4b0d4ad737c582b56df51a"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-2",
+   "short": "414.110.2",
+   "title": "Règlement concernant le projet pilote pour la maturité professionnelle flexible anticipée",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.2.htm",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.2.htm",
+     "sha256": "ddd3b34f32e2fcf8951952820388444144b1ca1b8b9dc09b69c57766b109dd78"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-14",
+   "short": "414.110.14",
+   "title": "Règlement interne du Centre de formation professionnelle neuchâtelois",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.14.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 47,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.14.htm",
+     "sha256": "79577d2ad3f24912c9e5c17a911a8a5c93bbe1034b997312fb63b3fd063ae694"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-14-1",
+   "short": "414.110.14.1",
+   "title": "Règlement concernant les filières de préapprentissage et de transition",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.14.1.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.14.1.htm",
+     "sha256": "f95b68e22cd1abf19855ba0fb1e26ce5e5a97514ce3f72294612367afdb16197"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-15",
+   "short": "414.110.15",
+   "title": "Règlement concernant la filière CFC de commerce modèle i (intégré) en école à plein temps ",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.15.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 47,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.15.htm",
+     "sha256": "7d2708c1960caccc674357a342d335e06144c0da14f7b3e0b65d25d5c2a72b3b"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-16",
+   "short": "414.110.16",
+   "title": "Règlement concernant la filière menant au certificat d’école de culture générale et à la maturité spécialisée",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.16.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 59,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.16.htm",
+     "sha256": "e21c5ccabc3f2adeb243b828972183118e4235c129106323d02dda6e014e6e1c"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-160-die",
+   "short": "DIE",
+   "title": "Règlement concernant la filière EPD ES Direction d’institution de l’enfance (DIE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.160.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.160.htm",
+     "sha256": "a84fb65da3d2b116a659efdec4cad05f53c37d01082690f7645c02c6a2fc9517"
+    }
+   ]
+  },
+  {
+   "slug": "414-110-171",
+   "short": "414.110.171",
+   "title": "Règlement portant sur le cours préparatoire et l’examen complémentaire permettant aux titulaires d’un certificat fédéral de maturité professionnelle ou d’un certificat de maturité spécialisée reconnu au niveau suisse d’être admis aux hautes écoles universitaires",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.171.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.110.171.htm",
+     "sha256": "3ca3866f5fbcfffe505a6b5ab07dbf440ff9e0074dc4cb3b20aa9b8ce4f7323a"
+    }
+   ]
+  },
+  {
+   "slug": "414-111-0-rfapp",
+   "short": "RFAPP",
+   "title": "Règlement d’application de la loi instituant un fonds pour l’apprentissage et le perfectionnement professionnel (RFAPP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.111.0.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 37,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.111.0.htm",
+     "sha256": "e40465017673a77703444f3be2db9ad480f1f798753c5e45f3915322dd31e9ce"
+    }
+   ]
+  },
+  {
+   "slug": "414-112-0-rlifp",
+   "short": "RLIFP",
+   "title": "Règlement d’application de la loi sur l’insertion des jeunes en formation professionnelle (RLIFP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.112.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.112.0.htm",
+     "sha256": "66957621c3b563a3df39d0a9e59150c9a5890828679a51a66d538316304ec7a7"
+    }
+   ]
+  },
+  {
+   "slug": "414-212",
+   "short": "414.212",
+   "title": "Règlement général concernant les filières ES",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.212.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.212.htm",
+     "sha256": "648809a8399e20c3723ad1de117c01e89a4d65917ccf6bade137bd2b35b26710"
+    }
+   ]
+  },
+  {
+   "slug": "414-231-01-cnip",
+   "short": "CNIP",
+   "title": "Règlement d'organisation du Centre neuchâtelois d'intégration professionnelle (CNIP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.231.01.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.231.01.htm",
+     "sha256": "1e9b9258359e7ddaa882a858ce09c135f40f2873125ace3d64c26d6b18f7e4b1"
+    }
+   ]
+  },
+  {
+   "slug": "414-293",
+   "short": "414.293",
+   "title": "Règlement concernant la formation professionnelle de droguiste diplômé-e ES",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.293.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 64,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.293.htm",
+     "sha256": "7e431f69975f605c8f4f952be0d426303a27e16455b68fe05a449ae344d1242a"
+    }
+   ]
+  },
+  {
+   "slug": "414-321-3",
+   "short": "414.321.3",
+   "title": "Règlement instituant de subir un test d'aptitudes avant l'entrée en apprentissage dans les professions de mécatronicien-ne d'automobiles, mécanicien-ne en maintenance d'automobiles et assistant-e en maintenance d'automobiles",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.321.3.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 8,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/414.321.3.htm",
+     "sha256": "14f11237f989b07e5b664912c52839c84e970a0dd703ef89f5f72f74b04781c7"
+    }
+   ]
+  },
+  {
+   "slug": "416-110",
+   "short": "416.110",
+   "title": "Règlement de la Commission de recours en matière d’examens de l’Université de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.110.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 23,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.110.htm",
+     "sha256": "4ce56b75e973f4c0451f5b896bd35c5389da45dc9a9e24e27909c6b02002de54"
+    }
+   ]
+  },
+  {
+   "slug": "416-192",
+   "short": "416.192",
+   "title": "Règlement de la Cité des étudiants",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.192.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/416.192.htm",
+     "sha256": "6840af449e804fceb54e49412abcd317d1a56444c2aeb2dc6c250663a4bab957"
+    }
+   ]
+  },
+  {
+   "slug": "417-103",
+   "short": "417.103",
+   "title": "Règlement relatif aux programmes Sports-Arts-Études, Sports-Arts-Apprentissage et Sport-Élite dans l’enseignement postobligatoire (sports-arts et formation)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.103.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.103.htm",
+     "sha256": "434213e357facc0f0cdc0eb0976b8f7b1a840d529aa1dfd06bfbc6b34af1d363"
+    }
+   ]
+  },
+  {
+   "slug": "417-105",
+   "short": "417.105",
+   "title": "Règlement du sport scolaire facultatif",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.105.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/417.105.htm",
+     "sha256": "fdb7cdc1ce0e6f37fe8195cd137057e4bf9ef0bd2b8484f6fdc8bfec5491db0b"
+    }
+   ]
+  },
+  {
+   "slug": "418-110-rlaf",
+   "short": "RLAF",
+   "title": "Règlement d’application de la loi sur les aides à la formation (RLAF)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/418.110.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 67,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/418.110.htm",
+     "sha256": "b80fe50230aaa477b2f11485bd7b6c912de3906c949bc927fe3fe7eca5097ada"
+    }
+   ]
+  },
+  {
+   "slug": "442-23",
+   "short": "442.23",
+   "title": "Règlement d'exécution de la loi sur l'archivage",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.23.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.23.htm",
+     "sha256": "be0b6a43117dec0425e9d8b0e1f4b4a95bafc03886f7623fd38df59ef971e55a"
+    }
+   ]
+  },
+  {
+   "slug": "442-411",
+   "short": "442.411",
+   "title": "Règlement concernant l'octroi de subventions en faveur des bibliothèques communales",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.411.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/442.411.htm",
+     "sha256": "0711f9e462c66feeae94e9d8f1a278a3822126e114cb4d879d184265d9e25e25"
+    }
+   ]
+  },
+  {
+   "slug": "451-03-releac",
+   "short": "RELEAC",
+   "title": "Règlement d’application de la loi sur l’encouragement des activités culturelles et artistiques (RELEAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.03.htm",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 43,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.03.htm",
+     "sha256": "cdf361ee1280e9dd1c34f594fe45391abbb7b3f374cb18ef09270d6ede846cbb"
+    }
+   ]
+  },
+  {
+   "slug": "451-21-rfmc",
+   "short": "RFMC",
+   "title": "Règlement d’application de la loi sur la formation musicale cantonale (RFMC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.21.htm",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.21.htm",
+     "sha256": "fe121ebeec38f9475f269c370f6c465bae540a2d90ca62486319b77eccac672d"
+    }
+   ]
+  },
+  {
+   "slug": "461-13",
+   "short": "461.13",
+   "title": "Règlement d'exécution des dispositions de l'ordonnance fédérale sur les paiements directs relatives aux contributions pour la qualité de la biodiversité de niveau II et pour la mise en réseau",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.13.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.13.htm",
+     "sha256": "def97c725746730c0626fc32339ae8973d224f8cdd143701151eac1204271698"
+    }
+   ]
+  },
+  {
+   "slug": "461-100-relcpn",
+   "short": "RELCPN",
+   "title": "Règlement d'exécution de la loi sur la protection de la nature (RELCPN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.100.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.100.htm",
+     "sha256": "d3952f4ee59ec9c2560894ea4a37275335017a6adfa7e7a26f224c0f335c6b10"
+    }
+   ]
+  },
+  {
+   "slug": "461-301-rlspc",
+   "short": "RLSPC",
+   "title": "Règlement d’application de la loi sur la sauvegarde du patrimoine culturel (RLSPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.301.htm",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 43,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/461.301.htm",
+     "sha256": "a69daae713f692ae78cf004fcb5ecf5862f9747a35172e59d78f80fd25474a7f"
+    }
+   ]
+  },
+  {
+   "slug": "465-01-relilpa",
+   "short": "RELILPA",
+   "title": "Règlement d'application de la loi d'introduction de la législation fédérale sur la protection des animaux (RELILPA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/465.01.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/465.01.htm",
+     "sha256": "5b61d5d57e8448f6d61f138819b8e3428fe370b0228b2fa017643b2c5923c68e"
+    }
+   ]
+  },
+  {
+   "slug": "503-1",
+   "short": "503.1",
+   "title": "Règlement d'administration des établissements et installations militaires du canton de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/503.1.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 14,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/503.1.htm",
+     "sha256": "0ca416ebc0fd1801fe652a4a5e873fbbf1231eba5f8d04ce4ea132818d624d2b"
+    }
+   ]
+  },
+  {
+   "slug": "521-10",
+   "short": "521.10",
+   "title": "Règlement d'exécution de la loi d'application de la législation fédérale sur la protection de la population et sur la protection civile",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.10.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 61,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.10.htm",
+     "sha256": "386d8ce952d33c6c1841564d38bd80bed74ada32175a32c0553bcf11626b8459"
+    }
+   ]
+  },
+  {
+   "slug": "521-11",
+   "short": "521.11",
+   "title": "Règlement de l'unité neuchâteloise d'intervention psychosociale UNIP",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.11.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 29,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/521.11.htm",
+     "sha256": "e37846d85bef54bc4e72cc8cff69df42bdb071196a3124f170fcc25eb42a8d5d"
+    }
+   ]
+  },
+  {
+   "slug": "601-0-rlfinec",
+   "short": "RLFinEC",
+   "title": "Règlement général d'exécution de la loi sur les finances de l'Etat et des Communes (RLFinEC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.0.htm",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 73,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.0.htm",
+     "sha256": "436e81ab3cc4cc5d2d1e7b8b610e47a73e17ccfe6a873cb20dca6f0b866403db"
+    }
+   ]
+  },
+  {
+   "slug": "601-30",
+   "short": "601.30",
+   "title": "Règlement du service financier",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.30.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.30.htm",
+     "sha256": "c6e07f1c1991a410ce0f05eb85de09b0c261b5aa693486100610248d6b4bd92c"
+    }
+   ]
+  },
+  {
+   "slug": "601-50",
+   "short": "601.50",
+   "title": "Règlement sur le contrôle des finances",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.50.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.50.htm",
+     "sha256": "925c89f060189d665f7129a145d7bd43fc17fe63a3d300d4d6f2646084ef9789"
+    }
+   ]
+  },
+  {
+   "slug": "601-80-relsub",
+   "short": "RELSub",
+   "title": "Règlement d'exécution de la loi sur les subventions (RELSub)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.80.htm",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 28,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.80.htm",
+     "sha256": "3d234ad0f56905d22221fd4423f5f7e7de0f3cdcdff81299a957165926496786"
+    }
+   ]
+  },
+  {
+   "slug": "601-720-relcmp",
+   "short": "RELCMP",
+   "title": "Règlement d’exécution de la loi cantonale sur les marchés publics (RELCMP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.720.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/601.720.htm",
+     "sha256": "2fb0f44797fb7635dc490519c4af622a1d633b5cd9b918526100b5a05ff8d566"
+    }
+   ]
+  },
+  {
+   "slug": "631-01-relcdir",
+   "short": "RELCdir",
+   "title": "Règlement général d'application de la loi sur les contributions directes (RELCdir)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.01.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 61,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.01.htm",
+     "sha256": "2980622f9dd2b5e659f70567cb18cda08fe2af831734521b852742fce07c1d02"
+    }
+   ]
+  },
+  {
+   "slug": "631-03",
+   "short": "631.03",
+   "title": "Règlement concernant la perception de l'impôt cantonal direct, de l'impôt communal direct et de leurs contributions annexes",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.03.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 36,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.03.htm",
+     "sha256": "b57e247fcf6dda41a0d3a1fb1d60fdead3bf2c7c49a326f163190bd6d9e54d6b"
+    }
+   ]
+  },
+  {
+   "slug": "631-011",
+   "short": "631.011",
+   "title": "Règlement concernant les remises d’impôt",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.011.htm",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.011.htm",
+     "sha256": "8b09d7484b8fe2aaa77341b0de6b9a34465f34caae8bf2a632881f36de031f4f"
+    }
+   ]
+  },
+  {
+   "slug": "631-014",
+   "short": "631.014",
+   "title": "Règlement concernant l'accès aux données fiscales par le guichet sécurisé unique",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.014.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.014.htm",
+     "sha256": "3c031dafb5bf34882ca2bba7cf04801c0c16d68c144abd9b55bdd46f31d9b29e"
+    }
+   ]
+  },
+  {
+   "slug": "631-022-rei",
+   "short": "REI",
+   "title": "Règlement concernant la détermination de l'estimation cadastrale des immeubles (bâtiments et terrains non agricoles) (REI)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.022.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.022.htm",
+     "sha256": "37aba4c264cacd6ec0250f58323d35b5a3ea9e4b17bfd7bc24af39486182685d"
+    }
+   ]
+  },
+  {
+   "slug": "631-023-reiagr",
+   "short": "REIAgr",
+   "title": "Règlement concernant la détermination de l'estimation cadastrale des immeubles (bâtiment et terrains affectés à l'économie rurale) (REIAgr)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.023.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.023.htm",
+     "sha256": "483015290b0354e726d466d02474140976255a38b8d6208478196cf198234d9d"
+    }
+   ]
+  },
+  {
+   "slug": "631-31",
+   "short": "631.31",
+   "title": "Règlement concernant l’imposition à la source",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.31.htm",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/631.31.htm",
+     "sha256": "d241bfb0a69c718f6e379a5f63ace3a32654a6064c4ab030f5ad5df282299aba"
+    }
+   ]
+  },
+  {
+   "slug": "636-21-rcc",
+   "short": "RCC",
+   "title": "Règlement relatif aux cours pour propriétaires de chiens (RCC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.21.htm",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.21.htm",
+     "sha256": "161bf0eb4ec08ce08f7d4e59f1d67b340abd1cf6e859f807c981b8b616607c05"
+    }
+   ]
+  },
+  {
+   "slug": "636-201-relchiens",
+   "short": "RELChiens",
+   "title": "Règlement d’exécution de la loi sur les chiens (RELChiens)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.201.htm",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/636.201.htm",
+     "sha256": "c89c129fecda8c59acf5fae53c6a3e861b48ca8cff3d90f40f9d4c5cee28e459"
+    }
+   ]
+  },
+  {
+   "slug": "701-02-relcat",
+   "short": "RELCAT",
+   "title": "Règlement d'exécution de la loi cantonale sur l'aménagement du territoire (RELCAT)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.02.htm",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 99,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.02.htm",
+     "sha256": "e0931d7fb5dbb91d65c4b4ed90ecb4251b2a2f90cfe1aaa9fac3f41ac839788a"
+    }
+   ]
+  },
+  {
+   "slug": "701-20",
+   "short": "701.20",
+   "title": "Règlement d’exécution de la loi sur la mobilité douce",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.20.htm",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.20.htm",
+     "sha256": "224ed421334563ac19af9a610ff3da9fba0b0347c9f907bda4d12047775d7b65"
+    }
+   ]
+  },
+  {
+   "slug": "701-60",
+   "short": "701.60",
+   "title": "Règlement d'exécution de la loi d'introduction de la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.60.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/701.60.htm",
+     "sha256": "ce96d9f5f5543d3619635b79f072415359f5010df6becca3fb65a84132db289f"
+    }
+   ]
+  },
+  {
+   "slug": "705-10-relem",
+   "short": "RELEM",
+   "title": "Règlement d'exécution de la loi sur l'extraction de matériaux (RELEM)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/705.10.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/705.10.htm",
+     "sha256": "31a5dc692560b49e91c35390f6d42d5088f6cd7252b92b518dbebebd9d694811"
+    }
+   ]
+  },
+  {
+   "slug": "720-1-relconstr",
+   "short": "RELConstr.",
+   "title": "Règlement d'exécution de la loi sur les constructions (RELConstr.)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.1.htm",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 124,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.1.htm",
+     "sha256": "da905161b7e43bb3e79605b322a011953b0d8f4e55866d2450ad3c551b1085a1"
+    }
+   ]
+  },
+  {
+   "slug": "720-6-rsatacgsu",
+   "short": "RSATACGSU",
+   "title": "Règlement sur le système automatisé de traitement des autorisations de construire et son accès par le guichet sécurisé unique (RSATACGSU)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/720.6.htm",
+     "sha256": "4f1cebc7c4434621abf0affcb1c2929596a6223f29191e9fcb05356e1ed43f34"
+    }
+   ]
+  },
+  {
+   "slug": "727-01",
+   "short": "727.01",
+   "title": "Règlement d'exécution de la loi sur l'utilisation du domaine public",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.01.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 6,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.01.htm",
+     "sha256": "6efc26c1a6e8d4ad5c4c9888fa1597a7869da1efc3239476d98b3ce607f3d521"
+    }
+   ]
+  },
+  {
+   "slug": "727-02",
+   "short": "727.02",
+   "title": "Règlement sur les plastiques à usage unique",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.02.htm",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.02.htm",
+     "sha256": "8cf94000fe5d377d6e266ed22409f1b8a29f8b98d8847914ece6726368cbc068"
+    }
+   ]
+  },
+  {
+   "slug": "727-20-relscn",
+   "short": "RELSCN",
+   "title": "Règlement d’exécution de la loi sur le stationnement des communautés nomades (RELSCN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.20.htm",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/727.20.htm",
+     "sha256": "20f50edffa6f63a42dae821ea389e8e6f424180810c6a842860c25122d75e828"
+    }
+   ]
+  },
+  {
+   "slug": "731-151",
+   "short": "731.151",
+   "title": "Règlement sur les piscines, les plages et les lieux de baignade publics",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.151.htm",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 20,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.151.htm",
+     "sha256": "d3c06b9472181a3975794209a0b8b213663721f2648eaaf03b2360bc2b7e47d6"
+    }
+   ]
+  },
+  {
+   "slug": "731-250-1-rufce",
+   "short": "RUFCE",
+   "title": "Règlement d'utilisation du fonds cantonal des eaux (RUFCE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.250.1.htm",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 36,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/731.250.1.htm",
+     "sha256": "70c5bf234973517bbedff74d1dba45f0e01f439c29209e1f589b78aebd135b7c"
+    }
+   ]
+  },
+  {
+   "slug": "735-100-relrvp",
+   "short": "RELRVP",
+   "title": "Règlement d’exécution de la loi sur les routes et voies publiques (RELRVP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.100.htm",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 48,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.100.htm",
+     "sha256": "6311267a2c759a777aec4630d8819f62e2d51c5008e2ae7ebb22da4a8d1562b1"
+    }
+   ]
+  },
+  {
+   "slug": "735-151",
+   "short": "735.151",
+   "title": "Règlement d'exécution de la loi d'introduction de la législation fédérale sur les routes nationales",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.151.htm",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.151.htm",
+     "sha256": "d9ea7111a96f5f782595b19b69e45c2e62f334a5ff4c63e8f55803e01d801c60"
+    }
+   ]
+  },
+  {
+   "slug": "735-170-relern",
+   "short": "ReLERN",
+   "title": "Règlement d’exécution de la loi sur l’entretien des routes nationales (ReLERN)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.170.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 54,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/735.170.htm",
+     "sha256": "f8f8fe60a82d16e19566de6f641338d4492e931ea56a8bcd433f22f5fa137498"
+    }
+   ]
+  },
+  {
+   "slug": "740-10-relcen",
+   "short": "RELCEn",
+   "title": "Règlement d’exécution de la loi cantonale sur l’énergie (RELCEn)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.10.htm",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 100,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.10.htm",
+     "sha256": "5beed90dfb263cd2499ddf475444da42f993fa09deb63cd314989703b1b4bb3f"
+    }
+   ]
+  },
+  {
+   "slug": "740-101-0-relael",
+   "short": "RELAEL",
+   "title": "Règlement d’exécution de la loi sur l’approvisionnement en électricité (RELAEL)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.101.0.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 27,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.101.0.htm",
+     "sha256": "b7992eda90f438056b2089d6cdff0fe4dee7c830f55a8b6899bcdbc5949053a9"
+    }
+   ]
+  },
+  {
+   "slug": "751-01",
+   "short": "751.01",
+   "title": "Règlement d'exécution de la loi cantonale sur la géoinformation (RLCGéo)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/751.01.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 49,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/751.01.htm",
+     "sha256": "eda087fa6811d2ff42cd9232c884a2186f5fe326a24c2bdc36cefecd7f33a3c2"
+    }
+   ]
+  },
+  {
+   "slug": "765-100-ratv",
+   "short": "RATV",
+   "title": "Règlement concernant l'octroi d'autorisations cantonales pour le transport des voyageurs (RATV)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/765.100.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/765.100.htm",
+     "sha256": "a36b396c7ef4bb4b0d6ebe72789f23d8cce9836c912b2455241d3edd23abd71d"
+    }
+   ]
+  },
+  {
+   "slug": "767-10-reldro",
+   "short": "RELDro",
+   "title": "Règlement d’exécution de la loi sur les drones (RELDro)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/767.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/767.10.htm",
+     "sha256": "c41dc1daa8f9e1723484a3ff9bad05583298459aec3768427d412309a01e3210"
+    }
+   ]
+  },
+  {
+   "slug": "801-100",
+   "short": "801.100",
+   "title": "Règlement concernant l'exercice des professions médicales universitaires et des autres professions de la santé",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.100.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 78,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.100.htm",
+     "sha256": "ae1cd3ab1f34f310f9c4beb65649414ee47af568083b419efacf3c066f3b8147"
+    }
+   ]
+  },
+  {
+   "slug": "801-103",
+   "short": "801.103",
+   "title": "Règlement d’exécution de la loi d’exécution de la loi fédérale relative à l’encouragement de la formation dans le domaine des soins infirmiers",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.103.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/801.103.htm",
+     "sha256": "7d15b0e6105465dfe00ed6584ddbfa85d6cd76e2b449a97f7be06cbdee871dff"
+    }
+   ]
+  },
+  {
+   "slug": "802-105-rsptp",
+   "short": "RSPTP",
+   "title": "Règlement sur les soins préhospitaliers et les transports de patients (RSPTP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.105.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 43,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.105.htm",
+     "sha256": "d55b3f7c50d84d7295be9cdd2ddac763ee366682cd07b5fa27ebbdf320401b6f"
+    }
+   ]
+  },
+  {
+   "slug": "802-550",
+   "short": "802.550",
+   "title": "Règlement d’application de la loi fédérale sur les centres de consultation en matière de grossesse",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.550.htm",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/802.550.htm",
+     "sha256": "e45f283e44b96670c4b0d77b0c3faada370a991ee1f9ea6a39b6c41ef060bacf"
+    }
+   ]
+  },
+  {
+   "slug": "804-10",
+   "short": "804.10",
+   "title": "Règlement sur les produits thérapeutiques, les pharmacies et les drogueries",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/804.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 94,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/804.10.htm",
+     "sha256": "a9ce804dbfc313da83be74f0c0b89ff9fdd795a6db56e4267b766e0ebc9d0663"
+    }
+   ]
+  },
+  {
+   "slug": "804-30",
+   "short": "804.30",
+   "title": "Règlement d'application de la loi fédérale sur les stupéfiants",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/804.30.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/804.30.htm",
+     "sha256": "6b8782728a360caede78f4b86e5e09fbc63f2718d949cf3861e0acee72b965dd"
+    }
+   ]
+  },
+  {
+   "slug": "805-100-rlpge",
+   "short": "RLPGE",
+   "title": "Règlement d'exécution de la loi sur la protection et la gestion des eaux (RLPGE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.100.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 73,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.100.htm",
+     "sha256": "c6d810a8792cb2706c2f23fe0b3485b09ebf17221a3ce618d0e8a6d462cbcb93"
+    }
+   ]
+  },
+  {
+   "slug": "805-301-rldsp",
+   "short": "RLDSP",
+   "title": "Règlement d’exécution de la loi sur les déchets et les sites pollués (RLDSP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.301.htm",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 42,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/805.301.htm",
+     "sha256": "61a0cbb997b4a1db685a58ed6571d2c713c96017df36143ece86cd0c9d9f094c"
+    }
+   ]
+  },
+  {
+   "slug": "806-12",
+   "short": "806.12",
+   "title": "Règlement concernant l’abattage des animaux",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/806.12.htm",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/806.12.htm",
+     "sha256": "eea508f68394d9d647460db6129458ae54c33a7b06909f0d64632da49fe88ffd"
+    }
+   ]
+  },
+  {
+   "slug": "807-10",
+   "short": "807.10",
+   "title": "Règlement concernant l'application de la loi fédérale sur la lutte contre les maladies transmissibles de l'homme",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.10.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.10.htm",
+     "sha256": "1ce9a39334bbe60c3cf824d881f8694a4e8922b3e5b52313d7ccf6f5cb57fb6b"
+    }
+   ]
+  },
+  {
+   "slug": "807-13",
+   "short": "807.13",
+   "title": "Règlement d'application des prescriptions fédérales sur la lutte contre la tuberculose",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.13.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 28,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.13.htm",
+     "sha256": "f425dd2f826752bc7e19095bee0fcfe2eaab179f749c29f80d34dffe8b5ed29d"
+    }
+   ]
+  },
+  {
+   "slug": "807-201",
+   "short": "807.201",
+   "title": "Règlement sur les vaccinations et les revaccinations",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.201.htm",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 24,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.201.htm",
+     "sha256": "7672e6216ad83716d5126214a8eee989bd2cf804058db3eea78e80ed7db39da8"
+    }
+   ]
+  },
+  {
+   "slug": "807-301-rpp",
+   "short": "RPP",
+   "title": "Règlement concernant la protection des patients hospitalisés en milieu psychiatrique (RPP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.301.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/807.301.htm",
+     "sha256": "49938fa300e9f41bc0bde13f0d4f6c21fd0cd44dd91e103ecf4ebb6398c13319"
+    }
+   ]
+  },
+  {
+   "slug": "810-40",
+   "short": "810.40",
+   "title": "Règlement concernant l'office cantonal de conciliation en matière de conflits collectifs du travail",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/810.40.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 43,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/810.40.htm",
+     "sha256": "e806d9a8725d02e2e7aa61c77056bc6ed35034ab4019740f6adad27a3e764d2a"
+    }
+   ]
+  },
+  {
+   "slug": "811-30",
+   "short": "811.30",
+   "title": "Règlement d'exécution de la loi fédérale sur le travail à domicile",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/811.30.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 8,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/811.30.htm",
+     "sha256": "64ddcd12d8d72f96f0e2127afaf4bd2e43c625fc5ebf254491f601b6985ad5bb"
+    }
+   ]
+  },
+  {
+   "slug": "811-101",
+   "short": "811.101",
+   "title": "Règlement d’application de la loi fédérale sur le travail 5.11.24",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/811.101.htm",
+   "versions": [
+    {
+     "from": "2025-02-01",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/811.101.htm",
+     "sha256": "374d70fe0f3b19287f775fc2d7c045f4945c7b330e0f645651735266de4cea02"
+    }
+   ]
+  },
+  {
+   "slug": "813-100-relpac",
+   "short": "RELPAC",
+   "title": "Règlement d'exécution de la législation en matière de placement public et d'assurance-chômage (RELPAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.htm",
+     "sha256": "580365eecc41fe674b331e4dcfbe4856cb6a01c3436da390e2ebd7bde17cb601"
+    }
+   ]
+  },
+  {
+   "slug": "813-100-0-rsalmin",
+   "short": "RSalMin",
+   "title": "Règlement portant sur l'application des dispositions de la loi sur l'emploi et l'assurance-chômage relatives au salaire minimum neuchâtelois (RSalMin)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.0.htm",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.0.htm",
+     "sha256": "7d193e208d8efa0266fc2b6f47c9ccd4f95701f1210921d8ce22e4a6cafca26c"
+    }
+   ]
+  },
+  {
+   "slug": "813-100-01",
+   "short": "813.100.01",
+   "title": "Règlement d'organisation de la commission tripartite de l’assurance-chômage",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.01.htm",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.100.01.htm",
+     "sha256": "00b791fc0a028c17479cd6623d06834a32cd5249402fceeb6628c68fa5f894f2"
+    }
+   ]
+  },
+  {
+   "slug": "813-110-reliloc",
+   "short": "RELILOC",
+   "title": "Règlement d'exécution de la législation en matière de licenciements collectifs, de licenciements importants, de placement privé et de location de services (RELILOC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.110.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.110.htm",
+     "sha256": "c73380f1c9a609d7e0de9f6b9581230d291943915ebb88e49d7a1a60a30a4870"
+    }
+   ]
+  },
+  {
+   "slug": "813-111",
+   "short": "813.111",
+   "title": "Règlement d'organisation de la commission tripartite chargée de l'observation du marché du travail",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.111.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 20,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/813.111.htm",
+     "sha256": "4c7484a498ffa745f379d396428a9e57df74bee616381bd33f0850b0295d5805"
+    }
+   ]
+  },
+  {
+   "slug": "820-101",
+   "short": "820.101",
+   "title": "Règlement d'exécution de la loi d'application de la loi fédérale sur l'assurance-vieillesse et survivants et de la loi fédérale sur l'assurance-invalidité",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 5,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.101.htm",
+     "sha256": "faafa6baac8f9cc83032f1a9123f70f40f20e99d12e9c61bc3b82b0b413223eb"
+    }
+   ]
+  },
+  {
+   "slug": "820-104",
+   "short": "820.104",
+   "title": "Règlement de la Caisse cantonale de compensation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.104.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 14,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.104.htm",
+     "sha256": "ef2f0226766059d0eddd269c2d03f7b75d25d9ffa9a0d98d57b90872bab4fc04"
+    }
+   ]
+  },
+  {
+   "slug": "820-105",
+   "short": "820.105",
+   "title": "Règlement fixant l'organisation et les attributions de la commission de gestion de la Caisse cantonale de compensation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.105.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.105.htm",
+     "sha256": "69af46d0fa4c90a18f26705b94ec4302200ff7eda0112f352cfafc4afd1c42a5"
+    }
+   ]
+  },
+  {
+   "slug": "820-221-relinca",
+   "short": "ReLIncA",
+   "title": "Règlement d’exécution de la loi sur l’inclusion et l’accompagnement des personnes vivant avec un handicap (ReLIncA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.221.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 65,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.221.htm",
+     "sha256": "d6b55365d80ab01d2cdf3e47261168734f580f6f3bf32deea0f31ec55fb9e31b"
+    }
+   ]
+  },
+  {
+   "slug": "820-223-repra",
+   "short": "REPRA",
+   "title": "Règlement sur la planification et la reconnaissance des appartements LASDom (REPRA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.223.htm",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 33,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.223.htm",
+     "sha256": "0fb37abdf366ed0939a022c3ca2b771a628899d99bff49ab7f7511d05192a617"
+    }
+   ]
+  },
+  {
+   "slug": "820-301-rlcpc",
+   "short": "RLCPC",
+   "title": "Règlement d'exécution de la loi d'introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI (RLCPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.301.htm",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 11,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.301.htm",
+     "sha256": "71042f7f42caf8ce941db137c308a13ab02cb4ff8227785dfd3d97d70d9a014a"
+    }
+   ]
+  },
+  {
+   "slug": "820-304-rfmpc",
+   "short": "RFMPC",
+   "title": "Règlement relatif au remboursement des frais de maladie et des frais résultant de l'invalidité en matière de prestations complémentaires (RFMPC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.304.htm",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 30,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/820.304.htm",
+     "sha256": "5af5008fe22a791387c4d82378463fa3a8b787a1477650f0adbdf6eeb9960da5"
+    }
+   ]
+  },
+  {
+   "slug": "821-530",
+   "short": "821.530",
+   "title": "Règlement relatif au permis de conducteur de machines de travail (permis de machiniste)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/821.530.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/821.530.htm",
+     "sha256": "ea61dbb1afa10d0660f8322977c2cf1df6fbe4e0e5433923973d13bf8263040e"
+    }
+   ]
+  },
+  {
+   "slug": "822-31",
+   "short": "822.31",
+   "title": "Règlement de la Caisse cantonale de compensation pour allocations familiales",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.31.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.31.htm",
+     "sha256": "f38498e9aed1ec8b1f59d600f356e0ced4780ce48c4691ad711959877ac0798a"
+    }
+   ]
+  },
+  {
+   "slug": "822-101-relilafam",
+   "short": "RELILAFam",
+   "title": "Règlement d'exécution de la loi d'introduction de la loi fédérale sur les allocations familiales (RELILAFam)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/822.101.htm",
+     "sha256": "0a84eedd28bfdc055f12fcb6e74034f28d68a670d7b90e324d6685b59addcc99"
+    }
+   ]
+  },
+  {
+   "slug": "823-31-rccnac",
+   "short": "RCCNAC",
+   "title": "Règlement relatif à la Caisse cantonale neuchâteloise d'assurance-chômage (RCCNAC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/823.31.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/823.31.htm",
+     "sha256": "b3015440ca860b0d37dee71cf16fbca3ce2a0a0e07a6a253c00addb43439327e"
+    }
+   ]
+  },
+  {
+   "slug": "823-201-rmip",
+   "short": "RMIP",
+   "title": "Règlement concernant les mesures d’intégration professionnelle (RMIP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/823.201.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/823.201.htm",
+     "sha256": "c32533785c6a3e0e32b250a6c2d62fddb19a3ac62e02b76c346a4dd13974a690"
+    }
+   ]
+  },
+  {
+   "slug": "831-01-relasoc",
+   "short": "RELASoc",
+   "title": "Règlement d'exécution de la loi sur l'action sociale (RELASoc)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.01.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 45,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.01.htm",
+     "sha256": "83036175cabac5784658a39f3afb3f792339d0a7429e23450b5fc2dd9da0ed9b"
+    }
+   ]
+  },
+  {
+   "slug": "831-30-rllps",
+   "short": "RLLPS",
+   "title": "Règlement d’exécution de la loi sur la lutte et la prévention contre le surendettement (RLLPS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.30.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 14,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.30.htm",
+     "sha256": "b05f017aaa05501c0041d713d4e7e41e487261699f6204f9e31b5fb564581efd"
+    }
+   ]
+  },
+  {
+   "slug": "831-40-relhacops",
+   "short": "RELHaCoPS",
+   "title": "Règlement d'exécution de la loi sur l'harmonisation et la coordination des prestations sociales (RELHaCoPS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.40.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 59,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/831.40.htm",
+     "sha256": "82d6686dd9107146327ff9beab242dea7c7028a516f6578d780c91783b3d47ae"
+    }
+   ]
+  },
+  {
+   "slug": "832-35-rrcgt",
+   "short": "RRCGT",
+   "title": "Règlement sur la reconnaissance des conditions générales de travail des établissements médico-sociaux (art. 24 LFinEMS) (RRCGT)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.35.htm",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 27,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.35.htm",
+     "sha256": "24a11b9ca68f2a796e81d51dcc2ece812bdc7b76e34b309ca42d818e467a8ba9"
+    }
+   ]
+  },
+  {
+   "slug": "832-101-relesea",
+   "short": "RELESEA",
+   "title": "Règlement d’exécution de la loi sur l’aide financière aux établissements spécialisés pour enfants et adolescent du canton (RELESEA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.101.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.101.htm",
+     "sha256": "a51bb21dd636fc058dbb8262e2f6afa7a546f415573090e61fcdd3dd6dff06ca"
+    }
+   ]
+  },
+  {
+   "slug": "832-300-rfines",
+   "short": "RFinES",
+   "title": "Règlement sur le financement des établissements spécialisés (RFinES)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.300.htm",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 76,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/832.300.htm",
+     "sha256": "40eb345cc36b4b97a270b2791129497d8e0cae11e0f6111d7220bb861c6bee7f"
+    }
+   ]
+  },
+  {
+   "slug": "841-01-ral",
+   "short": "RAL",
+   "title": "Règlement d'exécution de la loi sur l'aide au logement (RAL)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.01.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.01.htm",
+     "sha256": "f210991beade10ec4083270533cbef223326d24f681254d992b3ed125980b573"
+    }
+   ]
+  },
+  {
+   "slug": "841-010-ral2",
+   "short": "RAL2",
+   "title": "Règlement d'exécution de la loi sur l'aide au logement (RAL2)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.010.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 50,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.010.htm",
+     "sha256": "a4ab57c9d2489b232b6d57294f82feddba064ed049717acd1300a8d3ca902c88"
+    }
+   ]
+  },
+  {
+   "slug": "841-101",
+   "short": "841.101",
+   "title": "Règlement relatif à l'exécution du décret concernant la participation de l'Etat et des communes à la construction de maisons d'habitation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.101.htm",
+     "sha256": "b1ce512067a7e4fbfd159e8c7ee9052b2d7c7133c7b48038b4035d39451af86a"
+    }
+   ]
+  },
+  {
+   "slug": "841-110",
+   "short": "841.110",
+   "title": "Règlement relatif à l'exécution du décret concernant la participation de l'Etat et des communes à la construction de maisons d'habitation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.110.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.110.htm",
+     "sha256": "a5670dcb04d4022f734bedfda2357b093a14e30c373b5ac93f08ab24b42c64ea"
+    }
+   ]
+  },
+  {
+   "slug": "841-111",
+   "short": "841.111",
+   "title": "Règlement relatif à l'exécution du décret concernant la participation de l'Etat et des communes à la construction de maisons d'habitation",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.111.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 5,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.111.htm",
+     "sha256": "57856a36ab62c3044eb16fe3969aac119719c88c874f0f7ac19d55f789b2b201"
+    }
+   ]
+  },
+  {
+   "slug": "841-300",
+   "short": "841.300",
+   "title": "Règlement d'application des décrets concernant l'aide à la construction de logements à loyer modeste des 24 mai 1954, 12 février 1957, 21 mai 1959, 23 octobre 1961, 13 avril 1965 et 25 mars 1968",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.300.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/841.300.htm",
+     "sha256": "d48d66a80e0168a7a388bb92429c28e70cd4e939d88d6f98e4c7774cca050cdd"
+    }
+   ]
+  },
+  {
+   "slug": "843-101",
+   "short": "843.101",
+   "title": "Règlement d'exécution du décret concernant l'encouragement à la transformation et à la modernisation de logements anciens",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/843.101.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/843.101.htm",
+     "sha256": "7b170e9b84425bce6605b746debb07e35fdb2b69a183f9d635c82d9c3952c3f9"
+    }
+   ]
+  },
+  {
+   "slug": "843-121",
+   "short": "843.121",
+   "title": "Règlement d'exécution du décret concernant l'encouragement à la transformation et à la modernisation de logements anciens",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/843.121.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/843.121.htm",
+     "sha256": "15dad2aa8faf3db83d30653ed113c07eec2c0f26588c3937612824eeedb291e2"
+    }
+   ]
+  },
+  {
+   "slug": "861-100-ralpdiens",
+   "short": "RALPDIENS",
+   "title": "Règlement d'application de la loi sur la prévention et la défense contre les incendies et les éléments naturels, ainsi que les secours (RALPDIENS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.100.htm",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 113,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.100.htm",
+     "sha256": "0540d6f7da43ceac4d30b11126fc7ada2fc884a4b556cfcae17fe13dbc44779a"
+    }
+   ]
+  },
+  {
+   "slug": "861-102-rrc",
+   "short": "RRC",
+   "title": "Règlement sur le ramonage et le contrôle des installations thermiques (RRC)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.102.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/861.102.htm",
+     "sha256": "35ab210ba15ffe44e143aab517181a735e8503d13fe00b3012aca19dc3da2f36"
+    }
+   ]
+  },
+  {
+   "slug": "863-105",
+   "short": "863.105",
+   "title": "Règlement concernant l'accès aux données de l'assurance immobilière par le guichet sécurisé unique",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/863.105.htm",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/863.105.htm",
+     "sha256": "1eee4f540147b20d0c4142153269af85e5f471e3f3f95d7446017c6ee648dbb8"
+    }
+   ]
+  },
+  {
+   "slug": "900-10-relade",
+   "short": "RELADE",
+   "title": "Règlement d'exécution de la loi sur l'appui au développement économique (RELADE)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/900.10.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 18,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/900.10.htm",
+     "sha256": "b8df9c2f26e55aa8120240164e52fa79eb705b63f0eacdb031c2e91cc14af357"
+    }
+   ]
+  },
+  {
+   "slug": "901-020-ralelpr",
+   "short": "RALELPR",
+   "title": "Règlement d'application de la loi d'exécution de la loi fédérale sur la politique régionale (RALELPR)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/901.020.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/901.020.htm",
+     "sha256": "11d549870693506d53a3e7ba82153e4b3b92b49a89fe31824fb8f4b6a688fb2e"
+    }
+   ]
+  },
+  {
+   "slug": "910-10-relpagr",
+   "short": "RELPAgr",
+   "title": "Règlement général d'exécution de la loi sur la promotion de l'agriculture (RELPAgr)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/910.10.htm",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 60,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/910.10.htm",
+     "sha256": "1be1e25ed84e6749b51fe5ebbdb98a46a7ad60d68734f82f379fb53aa73b1c76"
+    }
+   ]
+  },
+  {
+   "slug": "910-11",
+   "short": "910.11",
+   "title": "Règlement relatif à la reconversion en agriculture biologique des terres de l’État de Neuchâtel",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/910.11.htm",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/910.11.htm",
+     "sha256": "f2e7377af185e198064a06e0173195f6afd0a35b584c042d896eca93083aecbc"
+    }
+   ]
+  },
+  {
+   "slug": "913-10-relasa",
+   "short": "RELASA",
+   "title": "Règlement d'exécution de la loi sur les améliorations structurelles dans l'agriculture (RELASA)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/913.10.htm",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 90,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/913.10.htm",
+     "sha256": "1f88bc41fbf2479115967651c4081cdb8d9d8015e766367c110345012c6c68ac"
+    }
+   ]
+  },
+  {
+   "slug": "916-120-0",
+   "short": "916.120.0",
+   "title": "Règlement d'exécution de la loi sur la viticulture",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.0.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 7,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.0.htm",
+     "sha256": "f1a67df0df534187a53efdfbc9f33133c8d0e269fe3b5c10f0ce73db27f2c359"
+    }
+   ]
+  },
+  {
+   "slug": "916-120-6",
+   "short": "916.120.6",
+   "title": "Règlement départemental relatif au subventionnement des traitements viticoles aériens par drones",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.6.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.6.htm",
+     "sha256": "d0412ad2ac2d7d7ab7a3b2cbd341d028beed3b22318e553009b81daa3dc963ca"
+    }
+   ]
+  },
+  {
+   "slug": "916-120-9",
+   "short": "916.120.9",
+   "title": "Règlement relatif aux mesures de soutien à l’arrachage des vignes pour la période 2026-2027 dans le cadre des améliorations structurelles",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.9.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.120.9.htm",
+     "sha256": "5420916bc5365d65535b85fdb0ad66aa4802dd050034bd63884e8d65b4c5ed09"
+    }
+   ]
+  },
+  {
+   "slug": "916-201",
+   "short": "916.201",
+   "title": "Règlement concernant la protection des végétaux",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.201.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.201.htm",
+     "sha256": "3ebb1c69a2be0ae47650db90a1fb9ebcc91c1f9eab68da15519f7ba2713f4495"
+    }
+   ]
+  },
+  {
+   "slug": "916-310-0",
+   "short": "916.310.0",
+   "title": "Règlement concernant la production animale",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.310.0.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 20,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.310.0.htm",
+     "sha256": "63e32ee77fd230bd0ee51c5f2b93ed279dc1be4ed8ba8a57ff7b472a2c5b4ac3"
+    }
+   ]
+  },
+  {
+   "slug": "916-420-2",
+   "short": "916.420.2",
+   "title": "Règlement concernant les équipes d'intervention en cas d'épizooties hautement contagieuses",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.420.2.htm",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 23,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.420.2.htm",
+     "sha256": "f68185e8aad959b91f754b42164508780d82f68355f4575d91c34f5f84ac54fc"
+    }
+   ]
+  },
+  {
+   "slug": "916-421",
+   "short": "916.421",
+   "title": "Règlement concernant la police sanitaire des animaux",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.421.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 61,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.421.htm",
+     "sha256": "761c9a23fa35795b46702a9837309553066e67fe11f2d6236531c2806c9f3beb"
+    }
+   ]
+  },
+  {
+   "slug": "916-421-35",
+   "short": "916.421.35",
+   "title": "Règlement relatif aux émoluments en matière de lutte contre les épizooties et d’élimination des cadavres d’animaux",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.421.35.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.421.35.htm",
+     "sha256": "352d73ecdbf496568cc778e88d958ee68a1db2dafbc6be032fec0778c13e2e35"
+    }
+   ]
+  },
+  {
+   "slug": "916-423",
+   "short": "916.423",
+   "title": "Règlement concernant la police sanitaire des abeilles",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.423.htm",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 26,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/916.423.htm",
+     "sha256": "f8beea94e8e7626e95e43e1fb1fd9fbb40d517dd5384f10a57a79499d43290b8"
+    }
+   ]
+  },
+  {
+   "slug": "921-10-relcfo",
+   "short": "RELCFo",
+   "title": "Règlement d'exécution de la loi cantonale sur les forêts (RELCFo)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/921.10.htm",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 71,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/921.10.htm",
+     "sha256": "34d7a8cee7fc9304f0380ea8fd82cb5f11a3d27948123cbb87dbfd1143f53d32"
+    }
+   ]
+  },
+  {
+   "slug": "922-101-rlfs",
+   "short": "RLFS",
+   "title": "Règlement d'exécution de la loi sur la faune sauvage (RLFS)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.101.htm",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 49,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.101.htm",
+     "sha256": "d549ecf4fe501dcbb3e8bfb7150c5b82e34039639017443e59a8686a54268263"
+    }
+   ]
+  },
+  {
+   "slug": "922-101-1-rch",
+   "short": "RCh",
+   "title": "Règlement de chasse (RCh)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.101.1.htm",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 44,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/922.101.1.htm",
+     "sha256": "ab0cb30a17afdddd561d3e6f6ac2166aaa2e38f7d19d3b8edd5a5fbf27699240"
+    }
+   ]
+  },
+  {
+   "slug": "923-101-rlfaq",
+   "short": "RLFAq",
+   "title": "Règlement d'exécution de la loi sur la faune aquatique (RLFAq) )",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/923.101.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 36,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/923.101.htm",
+     "sha256": "16286cc675d20e4af8fb4285313bca3f3c59b32ddd7c14bdb7206502190839e4"
+    }
+   ]
+  },
+  {
+   "slug": "931-12",
+   "short": "931.12",
+   "title": "Règlement concernant l'utilisation et la surveillance des anciennes carrières en galeries du Val-de-Travers",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/931.12.htm",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/931.12.htm",
+     "sha256": "9a67aa262c744ace85f4de123e72a17c8419319c5d1cc2d8bc4fe9b801f03f95"
+    }
+   ]
+  },
+  {
+   "slug": "933-53-reliljar",
+   "short": "RELILJAr",
+   "title": "Règlement d’exécution de la loi d’introduction de la loi fédérale sur les jeux d’argent (RELILJAr)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.53.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 17,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.53.htm",
+     "sha256": "6ff7870156dcc179bc308a47b531482c43c0e5e50d0c466902c7b13991c27463"
+    }
+   ]
+  },
+  {
+   "slug": "933-201-reltour",
+   "short": "RELTour",
+   "title": "Règlement d'exécution de la loi sur l'appui au développement touristique (RELTour)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.201.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 13,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.201.htm",
+     "sha256": "099d6a4189feb473dc274931640505608fcb292ab97ff2aa23a2756206c31681"
+    }
+   ]
+  },
+  {
+   "slug": "933-401",
+   "short": "933.401",
+   "title": "Règlement d'exécution de la loi sur le cinéma",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.401.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 10,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/933.401.htm",
+     "sha256": "7a4c585941806eaafe87ff2f266404f9a91fa64c47dba333723dafbaca10134b"
+    }
+   ]
+  },
+  {
+   "slug": "941-010-rcom",
+   "short": "RCom",
+   "title": "Règlement de police du commerce (RCom)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.010.htm",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 83,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.010.htm",
+     "sha256": "2784a1c110abfc7de6fbab510851b89e88c4ad41d3d1ee0bdae93bd1a197f0d7"
+    }
+   ]
+  },
+  {
+   "slug": "941-011-1-relhocom",
+   "short": "RELHOCom",
+   "title": "Règlement d'exécution de la loi sur les heures d'ouverture des commerces (RELHOCom)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.011.1.htm",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.011.1.htm",
+     "sha256": "7cf54d3b3366050ad94e83973339fcbb9738e0532f983359597d1d08e90531fc"
+    }
+   ]
+  },
+  {
+   "slug": "941-20",
+   "short": "941.20",
+   "title": "Règlement transitoire d’administration du bureau de contrôle des ouvrages en métaux précieux de La Chaux-de-Fonds",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.20.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 12,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.20.htm",
+     "sha256": "b5fdb59964ecd3cbe28a9a6cf8192f725549b0171bb6a6708e533399657c656d"
+    }
+   ]
+  },
+  {
+   "slug": "941-71-relprost",
+   "short": "RELProst",
+   "title": "Règlement d'exécution de la loi sur la prostitution et la pornographie (RELProst)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.71.htm",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 22,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/941.71.htm",
+     "sha256": "f139cf457a033de3cb3807ace7658fa976654f42f82c4a07b48e1015a3956eb8"
+    }
+   ]
+  },
+  {
+   "slug": "944-151-larm",
+   "short": "LArm",
+   "title": "Règlement d'application de la loi fédérale sur les armes, les accessoires d'armes et les munitions (LArm)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/944.151.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/944.151.htm",
+     "sha256": "ec582685f1276178d1d3b3d2c9374eb98e8fea97f224a334a266ca9f1f1bc2ac"
+    }
+   ]
+  },
+  {
+   "slug": "944-161",
+   "short": "944.161",
+   "title": "Règlement concernant les substances explosibles",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/944.161.htm",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 27,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/944.161.htm",
+     "sha256": "bbee14a2f33364228419e1ea0c9d7b502d6fd350592e3d8d8728c54a8cc03aa1"
+    }
+   ]
+  },
+  {
+   "slug": "961-10-rccap",
+   "short": "RCCAP",
+   "title": "Règlement d'exécution de la loi sur la Caisse cantonale d'assurance populaire (RCCAP)",
+   "url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/961.10.htm",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 31,
+     "source_url": "https://rsn.ne.ch/DATA/program/books/rsne/htm/961.10.htm",
+     "sha256": "561459e7aa88dfc9e30de4d5ad8a6142b70f9d860da7a4c5598f26de19030192"
+    }
+   ]
+  }
+ ]
+}

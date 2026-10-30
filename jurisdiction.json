@@ -1,0 +1,11 @@
+{
+  "path": "ch-ne",
+  "code": "CH-NE",
+  "name": "Neuchâtel",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-neuchatel-law",
+  "build": "built: 328 acts, 328 versions",
+  "language": "fr",
+  "sources": 1
+}
